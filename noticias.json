@@ -1,6 +1,12 @@
 {
-  "date": "2026-10-28",
-  "main": null,
-  "secondary": null,
-  "updated": "2026-10-28T09:00:00Z"
+ "date": "2026-10-28",
+ "main": {
+  "title": "Llamamiento urgente a donar sangre tras el accidente ferroviario de Urda (Toledo)",
+  "summary": "Tras el choque de dos trenes de alta velocidad en la provincia de Toledo, la Junta de Castilla-La Mancha pide donaciones de sangre de todos los grupos en los centros de Toledo, Ciudad Real y Alcázar de San Juan. Los servicios de transfusión piden sobre todo los grupos 0 y A, y 0+ y 0- con urgencia en el Hospital de Toledo. La Comunidad de Madrid también ha solicitado donaciones. Las cifras de víctimas varían según la fuente y pueden cambiar.",
+  "url": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261028/llamamiento-urgente-donar-sangre-toledo-ciudad-real-accidente-ferroviario/1003744438002_0.html",
+  "source": "El Español - El Digital de Castilla-La Mancha",
+  "why": "Ejemplo real de cómo se activa la reserva de hemoderivados ante un incidente con múltiples víctimas: coordinación entre centros de transfusión, prioridad de los grupos O y demanda sostenida los días posteriores."
+ },
+ "secondary": null,
+ "updated": "2026-10-28T15:30:00Z"
 }
