@@ -1,0 +1,63 @@
+{
+ "date": "2026-10-28",
+ "updated": "2026-10-28T15:50:00Z",
+ "regions": {
+  "val": [
+   {
+    "t": "30.º Congreso Nacional de Enfermería Hematológica en Valencia",
+    "s": "Se celebró del 15 al 17 de octubre de 2026 en el Ateneo Mercantil de Valencia, organizado por la Asociación Nacional de Enfermería Hematológica.",
+    "u": "https://enfermeriacyl.com/blog/2026/10/13/el-30o-congreso-nacional-de-enfermeria-hematologica-reunira-en-valencia-a-profesionales-de-todo-el-pais/",
+    "src": "Consejo de Enfermería de Castilla y León",
+    "d": "2026-10-13"
+   },
+   {
+    "t": "Pendiente: XXI Reunión Anual de la AVHH",
+    "s": "Todavía no tiene fecha publicada. Las novedades de la Asociación Valenciana de Hematología y Hemoterapia se anuncian en su web.",
+    "u": "https://www.avhh.org/category/noticias/",
+    "src": "AVHH",
+    "d": ""
+   }
+  ],
+  "esp": [
+   {
+    "t": "Llamamiento urgente a donar sangre tras el accidente ferroviario de Urda (Toledo)",
+    "s": "La Junta de Castilla-La Mancha pide sangre de todos los grupos, sobre todo 0 y A, en Toledo, Ciudad Real y Alcázar de San Juan. La Comunidad de Madrid también ha solicitado donaciones.",
+    "u": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261028/llamamiento-urgente-donar-sangre-toledo-ciudad-real-accidente-ferroviario/1003744438002_0.html",
+    "src": "El Español",
+    "d": "2026-10-28"
+   },
+   {
+    "t": "España prevé 28.697 nuevos casos de cáncer hematológico en 2026",
+    "s": "Estimación de la SEHH y REDECAN: el quinto tumor más frecuente, cerca del 10 % de los diagnósticos de cáncer, con una supervivencia a cinco años del 63 %. Son proyecciones basadas en registros de 2010-2019, no una predicción exacta.",
+    "u": "https://www.democrata.es/sanidad/en-2026-se-preven-casi-28-700-nuevos-diagnosticos-de-cancer-hematologico-en-espana/",
+    "src": "Demócrata (agencias)",
+    "d": "2026-09-18"
+   }
+  ],
+  "eur": [
+   {
+    "t": "Guía EHA 2026 de linfoma folicular: el cambio llega en la primera recaída",
+    "s": "Tafasitamab más R2 y epcoritamab más R2 se recomiendan desde la primera recaída por evidencia de fase III; en tercera línea se priorizan los biespecíficos CD20xCD3, CAR-T y combinaciones. Algunos fármacos recomendados no tienen aprobación de la EMA para esta indicación.",
+    "u": "https://oncodaily.com/hematology/follicular-lymphoma-eha-2026-614278",
+    "src": "OncoDaily (guía de Ladetto et al., HemaSphere)",
+    "d": "2026-10-22"
+   }
+  ],
+  "mun": [
+   {
+    "t": "AbbVie solicita a la FDA la aprobación de etentamig en mieloma múltiple en recaída o refractario",
+    "s": "Fase 3 CERVINO (393 pacientes): tasa de respuesta global 74,0 % frente a 45,7 % y HR de supervivencia libre de progresión 0,40 frente al tratamiento estándar. Síndrome de liberación de citocinas en el 28,3 %, casi todos de grado 1 o 2. Es una solicitud, no una aprobación.",
+    "u": "https://onclive.com/view/fda-receives-bla-for-etentamig-in-r-r-multiple-myeloma",
+    "src": "OncLive",
+    "d": "2026-10-27"
+   },
+   {
+    "t": "La FDA concede la designación de terapia innovadora a enzomenib en leucemia aguda con KMT2A reordenado",
+    "s": "Inhibidor oral de la interacción menina-KMT2A, en estudio en fase 1/2 (Horizen-1) en LMA y LLA en recaída o refractarias. La designación acelera la revisión; no implica aprobación.",
+    "u": "https://www.onclive.com/view/fda-grants-breakthrough-therapy-designation-to-enzomenib-in-r-r-kmt2a-rearranged-acute-leukemia",
+    "src": "OncLive",
+    "d": "2026-10-26"
+   }
+  ]
+ }
+}
