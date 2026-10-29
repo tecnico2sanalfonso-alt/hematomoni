@@ -57,6 +57,17 @@
    "w": "Madrid, Salón de Actos de la SEHH (híbrido, asistencia en línea gratuita)"
   },
   {
+   "a": "eur",
+   "d": "2026-12-12",
+   "e": "2026-12-15",
+   "k": "Congreso",
+   "n": "68.ª reunión anual de la ASH, del 12 al 15 de diciembre de 2026 en New Orleans y en línea, según la web oficial de la ASH.",
+   "org": "American Society of Hematology (ASH)",
+   "t": "ASH Annual Meeting 2026",
+   "u": "https://www.hematology.org/meetings/annual-meeting",
+   "w": "New Orleans, EE. UU. (y en línea)"
+  },
+  {
    "a": "esp",
    "d": "2027-06-10",
    "e": "2027-06-13",
@@ -68,5 +79,5 @@
    "w": "Barcelona (formato híbrido)"
   }
  ],
- "updated": "2026-10-29T09:00:00+01:00"
+ "updated": "2026-10-29T10:00:00+01:00"
 }
