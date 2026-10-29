@@ -1,17 +1,72 @@
 {
-  "date": "2026-10-28",
-  "items": [
-    {
-      "a": "esp",
-      "d": "2026-11-17",
-      "h": "10:00",
-      "k": "Jornada",
-      "n": "Jornada de 10:00 a 17:00 dirigida a especialistas en hematología, genética y biología molecular. Formato híbrido según la ficha de la SEHH.",
-      "org": "SEHH y Fundación Española de Hematología y Hemoterapia",
-      "t": "IV Jornada Neoplasias Hematológicas con predisposición Germinal",
-      "u": "https://sehh.es/oferta-formativa/iv-jornada-neoplasias-hematologicas-predisposicion-germinal/",
-      "w": "Madrid, Salón de Actos de la SEHH (formato híbrido, con opción en línea)"
-    }
-  ],
-  "updated": "2026-10-28T12:00:00+01:00"
+ "date": "2026-10-29",
+ "items": [
+  {
+   "a": "esp",
+   "d": "2026-11-05",
+   "h": "16:00",
+   "k": "Webinar",
+   "n": "Webinar de 16:00 a 17:00 sobre coordinación entre ginecología y hematología en coagulopatías congénitas. La ficha no especifica destinatarios.",
+   "org": "SETH y FETH, con apoyo independiente de Pfizer",
+   "t": "Manejo práctico del sangrado menstrual abundante (SMA) en mujeres con coagulopatías congénitas",
+   "u": "https://seth.es/formacion/manejo-practico-del-sangrado-menstrual-abundante-mujeres-con-coagulopatias-congenitas/",
+   "w": "En línea (webinar)"
+  },
+  {
+   "a": "esp",
+   "d": "2026-11-10",
+   "h": "16:00",
+   "k": "Webinar",
+   "n": "Webinar de 16:00 a 18:15 dirigido a profesionales de hemostasia que participan en procesos de acreditación, calidad y mejora continua.",
+   "org": "SETH y FETH, con la colaboración de Roche",
+   "t": "Acreditación del Laboratorio de Hemostasia",
+   "u": "https://seth.es/formacion/webinar-acreditacion-del-laboratorio-de-hemostasia/",
+   "w": "En línea (webinar)"
+  },
+  {
+   "a": "val",
+   "d": "2026-11-12",
+   "h": "16:20",
+   "k": "Reunión científica",
+   "n": "Reunión de 16:20 a 19:00 en Valencia, según la agenda de la AVHH. El programa está en un PDF enlazado desde la ficha; la ficha no indica organizador ni público destinatario.",
+   "org": "Publicado en la agenda de la AVHH",
+   "t": "Minarai",
+   "u": "https://www.avhh.org/project/minarai/",
+   "w": "Valencia, Sercotel Sorolla Palace"
+  },
+  {
+   "a": "esp",
+   "d": "2026-11-17",
+   "h": "10:00",
+   "k": "Jornada",
+   "n": "Jornada de 10:00 a 17:00 dirigida a especialistas en hematología, genética y biología molecular. Formato híbrido según la ficha de la SEHH.",
+   "org": "SEHH y Fundación Española de Hematología y Hemoterapia",
+   "t": "IV Jornada Neoplasias Hematológicas con predisposición Germinal",
+   "u": "https://sehh.es/oferta-formativa/iv-jornada-neoplasias-hematologicas-predisposicion-germinal/",
+   "w": "Madrid, Salón de Actos de la SEHH (formato híbrido, con opción en línea)"
+  },
+  {
+   "a": "esp",
+   "d": "2026-11-18",
+   "h": "16:00",
+   "k": "Jornada",
+   "n": "Jornada de 16:00 a 18:50. La ficha no especifica destinatarios.",
+   "org": "SEHH y Fundación Española de Hematología y Hemoterapia",
+   "t": "Jornada sobre nuevos problemas infecciosos en pacientes con mieloma múltiple bajo tratamiento con anti-BCMA",
+   "u": "https://sehh.es/oferta-formativa/jornada-sobre-nuevos-problemas-infecciosos-en-pacientes-con-mieloma-multiple-bajo-tratamiento-con-anti-bcma/",
+   "w": "Madrid, Salón de Actos de la SEHH (híbrido, asistencia en línea gratuita)"
+  },
+  {
+   "a": "esp",
+   "d": "2027-06-10",
+   "e": "2027-06-13",
+   "k": "Congreso",
+   "n": "Congreso anual de la EHA, del 10 al 13 de junio de 2027 en Barcelona, según el calendario de la EHA.",
+   "org": "European Hematology Association (EHA)",
+   "t": "Congreso EHA2027",
+   "u": "https://ehaweb.org/connect-network/eha2027-congress",
+   "w": "Barcelona (formato híbrido)"
+  }
+ ],
+ "updated": "2026-10-29T09:00:00+01:00"
 }
