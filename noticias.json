@@ -1,12 +1,12 @@
 {
- "date": "2026-10-28",
+ "date": "2026-10-29",
+ "updated": "2026-10-29T12:00:00Z",
  "main": {
-  "title": "Llamamiento urgente a donar sangre tras el accidente ferroviario de Urda (Toledo)",
-  "summary": "Tras el choque de dos trenes de alta velocidad en la provincia de Toledo, la Junta de Castilla-La Mancha pide donaciones de sangre de todos los grupos en los centros de Toledo, Ciudad Real y Alcázar de San Juan. Los servicios de transfusión piden sobre todo los grupos 0 y A, y 0+ y 0- con urgencia en el Hospital de Toledo. La Comunidad de Madrid también ha solicitado donaciones. Las cifras de víctimas varían según la fuente y pueden cambiar.",
-  "url": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261028/llamamiento-urgente-donar-sangre-toledo-ciudad-real-accidente-ferroviario/1003744438002_0.html",
-  "source": "El Español - El Digital de Castilla-La Mancha",
-  "why": "Ejemplo real de cómo se activa la reserva de hemoderivados ante un incidente con múltiples víctimas: coordinación entre centros de transfusión, prioridad de los grupos O y demanda sostenida los días posteriores."
+  "title": "La terapia génica de la anemia de Fanconi prepara su solicitud de exención hospitalaria ante la AEMPS",
+  "summary": "Los derechos y la documentación técnica de la terapia génica para anemia de Fanconi subtipo A pasaron de Rocket Pharmaceuticals al Ciemat, el Ciberer, el IIS-FJD y la Fundación del Hospital Niño Jesús, que ultiman una solicitud de exención hospitalaria para usarla sin ánimo de lucro. Rocket retiró en 2025 su solicitud de autorización ante la EMA. Aún no hay solicitud presentada ni decisión de la AEMPS.",
+  "url": "https://diariofarma.com/2026/10/28/la-terapia-genica-de-la-anemia-de-fanconi-opta-a-la-via-de-exencion-hospitalaria-en-espana",
+  "source": "Diariofarma",
+  "why": "Sería una vía académica para dar acceso a una terapia génica en fallo medular hereditario pediátrico sin pasar por la autorización comercial."
  },
- "secondary": null,
- "updated": "2026-10-28T15:30:00Z"
+ "secondary": null
 }

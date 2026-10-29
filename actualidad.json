@@ -1,77 +1,98 @@
 {
- "date": "2026-10-28",
- "updated": "2026-10-28T15:50:00Z",
+ "date": "2026-10-29",
  "regions": {
-  "val": [
-   {
-    "t": "Carpa de donación de sangre en Valencia el 7 de octubre (campaña Milfshakes y Fini)",
-    "s": "Valencia fue una de las cuatro ciudades con carpa de donación, junto con Murcia, Madrid y Barcelona.",
-    "u": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/fini-milfshakes-construyen-campana-donacion-sangre-halloween",
-    "src": "Marketing Directo",
-    "d": "2026-10-11"
-   },
-   {
-    "t": "30.º Congreso Nacional de Enfermería Hematológica en Valencia",
-    "s": "Se celebró del 15 al 17 de octubre de 2026 en el Ateneo Mercantil de Valencia, organizado por la Asociación Nacional de Enfermería Hematológica.",
-    "u": "https://enfermeriacyl.com/blog/2026/10/13/el-30o-congreso-nacional-de-enfermeria-hematologica-reunira-en-valencia-a-profesionales-de-todo-el-pais/",
-    "src": "Consejo de Enfermería de Castilla y León",
-    "d": "2026-10-13"
-   },
-   {
-    "t": "Pendiente: XXI Reunión Anual de la AVHH",
-    "s": "Todavía no tiene fecha publicada. Las novedades de la Asociación Valenciana de Hematología y Hemoterapia se anuncian en su web.",
-    "u": "https://www.avhh.org/category/noticias/",
-    "src": "AVHH",
-    "d": ""
-   }
-  ],
   "esp": [
    {
-    "t": "Llamamiento urgente a donar sangre tras el accidente ferroviario de Urda (Toledo)",
+    "d": "2026-10-28",
+    "s": "Las instituciones que recibieron de Rocket Pharmaceuticals los derechos de la terapia génica para anemia de Fanconi subtipo A preparan una solicitud de exención hospitalaria ante la AEMPS. Es una preparación: no hay solicitud presentada ni decisión. Rocket retiró en 2025 su solicitud ante la EMA.",
+    "src": "Diariofarma",
+    "t": "La terapia génica de la anemia de Fanconi opta a la vía de exención hospitalaria en España",
+    "u": "https://diariofarma.com/2026/10/28/la-terapia-genica-de-la-anemia-de-fanconi-opta-a-la-via-de-exencion-hospitalaria-en-espana"
+   },
+   {
+    "d": "2026-10-28",
     "s": "La Junta de Castilla-La Mancha pide sangre de todos los grupos, sobre todo 0 y A, en Toledo, Ciudad Real y Alcázar de San Juan. La Comunidad de Madrid también ha solicitado donaciones.",
-    "u": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261028/llamamiento-urgente-donar-sangre-toledo-ciudad-real-accidente-ferroviario/1003744438002_0.html",
     "src": "El Español",
-    "d": "2026-10-28"
+    "t": "Llamamiento urgente a donar sangre tras el accidente ferroviario de Urda (Toledo)",
+    "u": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261028/llamamiento-urgente-donar-sangre-toledo-ciudad-real-accidente-ferroviario/1003744438002_0.html"
    },
    {
-    "t": "Campaña de donación de sangre de Milfshakes y Fini, con carpas en Valencia, Madrid, Barcelona y Murcia",
+    "d": "2026-10-19",
+    "s": "Un paciente del Hospital La Paz es el primero de la Comunidad de Madrid en recibir terapia génica para hemofilia B, en una infusión única. El artículo no especifica el fármaco; recuerda que Hemgenix es la única terapia génica para esta indicación con financiación pública en España, con pagos anuales condicionados a mantener actividad de factor IX de al menos el 5 %.",
+    "src": "Crónica del Henares",
+    "t": "La Paz, primera terapia génica de Madrid para hemofilia B",
+    "u": "https://www.cronicadelhenares.com/2026/10/la-paz-terapia-genica-hemofilia-b-madrid.html"
+   },
+   {
+    "d": "2026-10-11",
     "s": "El creador Nil Ojeda y las marcas Fini y Milfshakes organizaron una campaña de cinco días con carpas de donación el 7 y el 8 de octubre y aludieron al estado de las reservas de sangre en España. Según el medio, se recogieron más de 225 litros. Es una campaña de marketing; el artículo no cita ninguna entidad sanitaria.",
-    "u": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/fini-milfshakes-construyen-campana-donacion-sangre-halloween",
     "src": "Marketing Directo",
-    "d": "2026-10-11"
-   },
-   {
-    "t": "España prevé 28.697 nuevos casos de cáncer hematológico en 2026",
-    "s": "Estimación de la SEHH y REDECAN: el quinto tumor más frecuente, cerca del 10 % de los diagnósticos de cáncer, con una supervivencia a cinco años del 63 %. Son proyecciones basadas en registros de 2010-2019, no una predicción exacta.",
-    "u": "https://www.democrata.es/sanidad/en-2026-se-preven-casi-28-700-nuevos-diagnosticos-de-cancer-hematologico-en-espana/",
-    "src": "Demócrata (agencias)",
-    "d": "2026-09-18"
+    "t": "Campaña de donación de sangre de Milfshakes y Fini, con carpas en Valencia, Madrid, Barcelona y Murcia",
+    "u": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/fini-milfshakes-construyen-campana-donacion-sangre-halloween"
    }
   ],
   "eur": [
    {
-    "t": "Guía EHA 2026 de linfoma folicular: el cambio llega en la primera recaída",
+    "d": "2026-10-22",
     "s": "Tafasitamab más R2 y epcoritamab más R2 se recomiendan desde la primera recaída por evidencia de fase III; en tercera línea se priorizan los biespecíficos CD20xCD3, CAR-T y combinaciones. Algunos fármacos recomendados no tienen aprobación de la EMA para esta indicación.",
-    "u": "https://oncodaily.com/hematology/follicular-lymphoma-eha-2026-614278",
     "src": "OncoDaily (guía de Ladetto et al., HemaSphere)",
-    "d": "2026-10-22"
+    "t": "Guía EHA 2026 de linfoma folicular: el cambio llega en la primera recaída",
+    "u": "https://oncodaily.com/hematology/follicular-lymphoma-eha-2026-614278"
+   },
+   {
+    "d": "2026-10-16",
+    "s": "El CHMP (12-15 octubre) recomendó el biosimilar de filgrastim Neuzafy para neutropenia. Confirmó la denegación de Yartemlea (narsoplimab) en microangiopatía trombótica tras trasplante de progenitores y no recomendó la extensión de Mylotarg a niños con LMA de nuevo diagnóstico. No hubo nuevos fármacos para hemofilia ni trombosis.",
+    "src": "EMA",
+    "t": "Resumen del CHMP de octubre de 2026: Neuzafy recomendado y Yartemlea denegado en revisión",
+    "u": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026"
    }
   ],
   "mun": [
    {
-    "t": "AbbVie solicita a la FDA la aprobación de etentamig en mieloma múltiple en recaída o refractario",
+    "d": "2026-10-27",
     "s": "Fase 3 CERVINO (393 pacientes): tasa de respuesta global 74,0 % frente a 45,7 % y HR de supervivencia libre de progresión 0,40 frente al tratamiento estándar. Síndrome de liberación de citocinas en el 28,3 %, casi todos de grado 1 o 2. Es una solicitud, no una aprobación.",
-    "u": "https://onclive.com/view/fda-receives-bla-for-etentamig-in-r-r-multiple-myeloma",
     "src": "OncLive",
-    "d": "2026-10-27"
+    "t": "AbbVie solicita a la FDA la aprobación de etentamig en mieloma múltiple en recaída o refractario",
+    "u": "https://onclive.com/view/fda-receives-bla-for-etentamig-in-r-r-multiple-myeloma"
    },
    {
-    "t": "La FDA concede la designación de terapia innovadora a enzomenib en leucemia aguda con KMT2A reordenado",
+    "d": "2026-10-26",
     "s": "Inhibidor oral de la interacción menina-KMT2A, en estudio en fase 1/2 (Horizen-1) en LMA y LLA en recaída o refractarias. La designación acelera la revisión; no implica aprobación.",
-    "u": "https://www.onclive.com/view/fda-grants-breakthrough-therapy-designation-to-enzomenib-in-r-r-kmt2a-rearranged-acute-leukemia",
     "src": "OncLive",
-    "d": "2026-10-26"
+    "t": "La FDA concede la designación de terapia innovadora a enzomenib en leucemia aguda con KMT2A reordenado",
+    "u": "https://www.onclive.com/view/fda-grants-breakthrough-therapy-designation-to-enzomenib-in-r-r-kmt2a-rearranged-acute-leukemia"
+   },
+   {
+    "d": "2026-10-14",
+    "s": "La FDA aceptó el reenvío de la solicitud (BLA) de tabelecleucel en enfermedad linfoproliferativa postrasplante EBV positiva, en pacientes de 2 años o más con al menos una terapia previa; fecha PDUFA 31 de marzo de 2027. Es una aceptación para revisión, no una aprobación. Datos ALLELE (n = 75): respuesta global 50,7 %.",
+    "src": "OncLive",
+    "t": "La FDA acepta el reenvío de la solicitud de tabelecleucel en PTLD con EBV",
+    "u": "https://www.onclive.com/view/fda-accepts-bla-resubmission-for-tabelecleucel-in-ebv-post-transplant-lymphoproliferative-disease"
+   }
+  ],
+  "val": [
+   {
+    "d": "2026-10-22",
+    "s": "El Centro de Transfusión de la Comunitat Valenciana instaló un punto de donación en el Salón Social El Cirer (La Nucía, Alicante) el 22 de octubre de 16:30 a 20:30, sin cita previa. Según el artículo, Alicante necesita unas 250 donaciones diarias para abastecer a sus hospitales.",
+    "src": "El Periódic",
+    "t": "Donación de sangre en La Nucía: el Centro de Transfusión se desplaza al Cirer",
+    "u": "https://www.elperiodic.com/lanucia/donacion-sangre-2026-sera-este-jueves-octubre-centro-transfusion-desplaza-cirer_1098257"
+   },
+   {
+    "d": "2026-10-13",
+    "s": "Se celebró del 15 al 17 de octubre de 2026 en el Ateneo Mercantil de Valencia, organizado por la Asociación Nacional de Enfermería Hematológica.",
+    "src": "Consejo de Enfermería de Castilla y León",
+    "t": "30.º Congreso Nacional de Enfermería Hematológica en Valencia",
+    "u": "https://enfermeriacyl.com/blog/2026/10/13/el-30o-congreso-nacional-de-enfermeria-hematologica-reunira-en-valencia-a-profesionales-de-todo-el-pais/"
+   },
+   {
+    "d": "2026-10-11",
+    "s": "Valencia fue una de las cuatro ciudades con carpa de donación, junto con Murcia, Madrid y Barcelona.",
+    "src": "Marketing Directo",
+    "t": "Carpa de donación de sangre en Valencia el 7 de octubre (campaña Milfshakes y Fini)",
+    "u": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/fini-milfshakes-construyen-campana-donacion-sangre-halloween"
    }
   ]
- }
+ },
+ "updated": "2026-10-29T12:00:00Z"
 }
