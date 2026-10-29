@@ -1,12 +1,18 @@
 {
  "date": "2026-10-29",
- "updated": "2026-10-29T12:00:00Z",
  "main": {
-  "title": "La terapia génica de la anemia de Fanconi prepara su solicitud de exención hospitalaria ante la AEMPS",
-  "summary": "Los derechos y la documentación técnica de la terapia génica para anemia de Fanconi subtipo A pasaron de Rocket Pharmaceuticals al Ciemat, el Ciberer, el IIS-FJD y la Fundación del Hospital Niño Jesús, que ultiman una solicitud de exención hospitalaria para usarla sin ánimo de lucro. Rocket retiró en 2025 su solicitud de autorización ante la EMA. Aún no hay solicitud presentada ni decisión de la AEMPS.",
-  "url": "https://diariofarma.com/2026/10/28/la-terapia-genica-de-la-anemia-de-fanconi-opta-a-la-via-de-exencion-hospitalaria-en-espana",
-  "source": "Diariofarma",
-  "why": "Sería una vía académica para dar acceso a una terapia génica en fallo medular hereditario pediátrico sin pasar por la autorización comercial."
+  "source": "Bayer (nota de prensa, 26 oct 2026)",
+  "summary": "La NMPA china autorizó asundexian 50 mg una vez al día (Sunharbo) para reducir el riesgo de ictus tras un ictus isquémico no cardioembólico o un AIT de alto riesgo. En OCEANIC-STROKE (12.327 pacientes) asundexian más antiagregación redujo el ictus isquémico un 26 % frente a antiagregación sola, con sangrados totales similares según Bayer. Bayer indica que hay solicitudes en revisión en otros mercados.",
+  "title": "China aprueba asundexian, el primer inhibidor del factor XIa autorizado en el mundo, para prevención de ictus",
+  "url": "https://bayer.com/media/en-us/asundexian-first-factor-xia-inhibitor-approved-in-china-for-stroke-risk-reduction-after-priority-review",
+  "why": "Es la primera aprobación de la clase anti-FXIa: señala hacia anticoagulantes con menor riesgo hemorrágico, aunque esta indicación es prevención secundaria de ictus y no tromboembolismo venoso ni fibrilación auricular."
  },
- "secondary": null
+ "secondary": {
+  "source": "Redacción Médica",
+  "summary": "Hematólogo del Hospital Clínic de Barcelona y expresidente de GELTAMO. Entre sus prioridades: acreditar un quinto año de formación MIR en Hematología, integrar la inteligencia artificial y acreditar unidades funcionales, empezando por linfoma y mieloma.",
+  "title": "Armando López Guillermo, nuevo presidente de la SEHH para 2026-2030",
+  "url": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261027/armando-lopez-guillermo-presidira-la-sociedad-espanola-de-hematologia-hemoterapia/363515_0.html",
+  "why": "El quinto año de MIR afectaría directamente a la formación de residentes de Hematología."
+ },
+ "updated": "2026-10-29T08:20:00+01:00"
 }

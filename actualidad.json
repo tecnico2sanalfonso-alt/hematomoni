@@ -17,6 +17,13 @@
     "u": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261028/llamamiento-urgente-donar-sangre-toledo-ciudad-real-accidente-ferroviario/1003744438002_0.html"
    },
    {
+    "d": "2026-10-27",
+    "s": "Hematólogo del Hospital Clínic de Barcelona y expresidente de GELTAMO, presidirá la SEHH en 2026-2030. Prioridades anunciadas: acreditar un quinto año de MIR en Hematología, integrar la inteligencia artificial y acreditar unidades funcionales, empezando por linfoma y mieloma.",
+    "src": "Redacción Médica",
+    "t": "Armando López Guillermo, nuevo presidente de la SEHH",
+    "u": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261027/armando-lopez-guillermo-presidira-la-sociedad-espanola-de-hematologia-hemoterapia/363515_0.html"
+   },
+   {
     "d": "2026-10-19",
     "s": "Un paciente del Hospital La Paz es el primero de la Comunidad de Madrid en recibir terapia génica para hemofilia B, en una infusión única. El artículo no especifica el fármaco; recuerda que Hemgenix es la única terapia génica para esta indicación con financiación pública en España, con pagos anuales condicionados a mantener actividad de factor IX de al menos el 5 %.",
     "src": "Crónica del Henares",
@@ -57,6 +64,13 @@
    },
    {
     "d": "2026-10-26",
+    "s": "Aprobación de la NMPA china de asundexian 50 mg al día (Sunharbo) para reducir el riesgo de ictus tras ictus isquémico no cardioembólico o AIT de alto riesgo. En OCEANIC-STROKE (12.327 pacientes) redujo el ictus isquémico un 26 % con sangrados totales similares, según Bayer. Hay solicitudes en revisión en otros mercados.",
+    "src": "Bayer",
+    "t": "China aprueba asundexian, primer inhibidor del factor XIa autorizado, en prevención de ictus",
+    "u": "https://bayer.com/media/en-us/asundexian-first-factor-xia-inhibitor-approved-in-china-for-stroke-risk-reduction-after-priority-review"
+   },
+   {
+    "d": "2026-10-26",
     "s": "Inhibidor oral de la interacción menina-KMT2A, en estudio en fase 1/2 (Horizen-1) en LMA y LLA en recaída o refractarias. La designación acelera la revisión; no implica aprobación.",
     "src": "OncLive",
     "t": "La FDA concede la designación de terapia innovadora a enzomenib en leucemia aguda con KMT2A reordenado",
@@ -71,6 +85,13 @@
    }
   ],
   "val": [
+   {
+    "d": "2026-10-28",
+    "s": "Ensayo aleatorizado de fase II (TTVguideIT) en 260 receptores de trasplante renal de 13 centros europeos, con participación de INCLIVA, Hospital Clínico Universitario de València e IIS La Fe: el ajuste de tacrolimus según carga de virus Torque-Teno cumplió no inferioridad (evento compuesto 35 % frente a 38 %), con menos dosis de tacrolimus. No redujo significativamente las infecciones. Es trasplante renal, no hematológico.",
+    "src": "El Periódic",
+    "t": "INCLIVA y el IIS La Fe participan en un estudio de dosificación personalizada de inmunosupresores tras un trasplante",
+    "u": "https://www.elperiodic.com/valencia/incliva-participan-estudio-avala-dosificacion-personalizada-inmunosupresores-tras-trasplante_1099753"
+   },
    {
     "d": "2026-10-22",
     "s": "El Centro de Transfusión de la Comunitat Valenciana instaló un punto de donación en el Salón Social El Cirer (La Nucía, Alicante) el 22 de octubre de 16:30 a 20:30, sin cita previa. Según el artículo, Alicante necesita unas 250 donaciones diarias para abastecer a sus hospitales.",
@@ -94,5 +115,5 @@
    }
   ]
  },
- "updated": "2026-10-29T12:00:00Z"
+ "updated": "2026-10-29T08:20:00+01:00"
 }
