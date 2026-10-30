@@ -1,119 +1,119 @@
 {
- "date": "2026-10-29",
- "regions": {
-  "esp": [
-   {
-    "d": "2026-10-28",
-    "s": "Las instituciones que recibieron de Rocket Pharmaceuticals los derechos de la terapia génica para anemia de Fanconi subtipo A preparan una solicitud de exención hospitalaria ante la AEMPS. Es una preparación: no hay solicitud presentada ni decisión. Rocket retiró en 2025 su solicitud ante la EMA.",
-    "src": "Diariofarma",
-    "t": "La terapia génica de la anemia de Fanconi opta a la vía de exención hospitalaria en España",
-    "u": "https://diariofarma.com/2026/10/28/la-terapia-genica-de-la-anemia-de-fanconi-opta-a-la-via-de-exencion-hospitalaria-en-espana"
-   },
-   {
-    "d": "2026-10-28",
-    "s": "La Junta de Castilla-La Mancha pide sangre de todos los grupos, sobre todo 0 y A, en Toledo, Ciudad Real y Alcázar de San Juan. La Comunidad de Madrid también ha solicitado donaciones.",
-    "src": "El Español",
-    "t": "Llamamiento urgente a donar sangre tras el accidente ferroviario de Urda (Toledo)",
-    "u": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261028/llamamiento-urgente-donar-sangre-toledo-ciudad-real-accidente-ferroviario/1003744438002_0.html"
-   },
-   {
-    "d": "2026-10-27",
-    "s": "Hematólogo del Hospital Clínic de Barcelona y expresidente de GELTAMO, presidirá la SEHH en 2026-2030. Prioridades anunciadas: acreditar un quinto año de MIR en Hematología, integrar la inteligencia artificial y acreditar unidades funcionales, empezando por linfoma y mieloma.",
-    "src": "Redacción Médica",
-    "t": "Armando López Guillermo, nuevo presidente de la SEHH",
-    "u": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261027/armando-lopez-guillermo-presidira-la-sociedad-espanola-de-hematologia-hemoterapia/363515_0.html"
-   },
-   {
-    "d": "2026-10-19",
-    "s": "Un paciente del Hospital La Paz es el primero de la Comunidad de Madrid en recibir terapia génica para hemofilia B, en una infusión única. El artículo no especifica el fármaco; recuerda que Hemgenix es la única terapia génica para esta indicación con financiación pública en España, con pagos anuales condicionados a mantener actividad de factor IX de al menos el 5 %.",
-    "src": "Crónica del Henares",
-    "t": "La Paz, primera terapia génica de Madrid para hemofilia B",
-    "u": "https://www.cronicadelhenares.com/2026/10/la-paz-terapia-genica-hemofilia-b-madrid.html"
-   },
-   {
-    "d": "2026-10-11",
-    "s": "El creador Nil Ojeda y las marcas Fini y Milfshakes organizaron una campaña de cinco días con carpas de donación el 7 y el 8 de octubre y aludieron al estado de las reservas de sangre en España. Según el medio, se recogieron más de 225 litros. Es una campaña de marketing; el artículo no cita ninguna entidad sanitaria.",
-    "src": "Marketing Directo",
-    "t": "Campaña de donación de sangre de Milfshakes y Fini, con carpas en Valencia, Madrid, Barcelona y Murcia",
-    "u": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/fini-milfshakes-construyen-campana-donacion-sangre-halloween"
-   }
-  ],
-  "eur": [
-   {
-    "d": "2026-10-22",
-    "s": "Tafasitamab más R2 y epcoritamab más R2 se recomiendan desde la primera recaída por evidencia de fase III; en tercera línea se priorizan los biespecíficos CD20xCD3, CAR-T y combinaciones. Algunos fármacos recomendados no tienen aprobación de la EMA para esta indicación.",
-    "src": "OncoDaily (guía de Ladetto et al., HemaSphere)",
-    "t": "Guía EHA 2026 de linfoma folicular: el cambio llega en la primera recaída",
-    "u": "https://oncodaily.com/hematology/follicular-lymphoma-eha-2026-614278"
-   },
-   {
-    "d": "2026-10-16",
-    "s": "El CHMP (12-15 octubre) recomendó el biosimilar de filgrastim Neuzafy para neutropenia. Confirmó la denegación de Yartemlea (narsoplimab) en microangiopatía trombótica tras trasplante de progenitores y no recomendó la extensión de Mylotarg a niños con LMA de nuevo diagnóstico. No hubo nuevos fármacos para hemofilia ni trombosis.",
-    "src": "EMA",
-    "t": "Resumen del CHMP de octubre de 2026: Neuzafy recomendado y Yartemlea denegado en revisión",
-    "u": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026"
-   }
-  ],
-  "mun": [
-   {
-    "d": "2026-10-27",
-    "s": "Fase 3 CERVINO (393 pacientes): tasa de respuesta global 74,0 % frente a 45,7 % y HR de supervivencia libre de progresión 0,40 frente al tratamiento estándar. Síndrome de liberación de citocinas en el 28,3 %, casi todos de grado 1 o 2. Es una solicitud, no una aprobación.",
-    "src": "OncLive",
-    "t": "AbbVie solicita a la FDA la aprobación de etentamig en mieloma múltiple en recaída o refractario",
-    "u": "https://onclive.com/view/fda-receives-bla-for-etentamig-in-r-r-multiple-myeloma"
-   },
-   {
-    "d": "2026-10-26",
-    "s": "Aprobación de la NMPA china de asundexian 50 mg al día (Sunharbo) para reducir el riesgo de ictus tras ictus isquémico no cardioembólico o AIT de alto riesgo. En OCEANIC-STROKE (12.327 pacientes) redujo el ictus isquémico un 26 % con sangrados totales similares, según Bayer. Hay solicitudes en revisión en otros mercados.",
-    "src": "Bayer",
-    "t": "China aprueba asundexian, primer inhibidor del factor XIa autorizado, en prevención de ictus",
-    "u": "https://bayer.com/media/en-us/asundexian-first-factor-xia-inhibitor-approved-in-china-for-stroke-risk-reduction-after-priority-review"
-   },
-   {
-    "d": "2026-10-26",
-    "s": "Inhibidor oral de la interacción menina-KMT2A, en estudio en fase 1/2 (Horizen-1) en LMA y LLA en recaída o refractarias. La designación acelera la revisión; no implica aprobación.",
-    "src": "OncLive",
-    "t": "La FDA concede la designación de terapia innovadora a enzomenib en leucemia aguda con KMT2A reordenado",
-    "u": "https://www.onclive.com/view/fda-grants-breakthrough-therapy-designation-to-enzomenib-in-r-r-kmt2a-rearranged-acute-leukemia"
-   },
-   {
-    "d": "2026-10-14",
-    "s": "La FDA aceptó el reenvío de la solicitud (BLA) de tabelecleucel en enfermedad linfoproliferativa postrasplante EBV positiva, en pacientes de 2 años o más con al menos una terapia previa; fecha PDUFA 31 de marzo de 2027. Es una aceptación para revisión, no una aprobación. Datos ALLELE (n = 75): respuesta global 50,7 %.",
-    "src": "OncLive",
-    "t": "La FDA acepta el reenvío de la solicitud de tabelecleucel en PTLD con EBV",
-    "u": "https://www.onclive.com/view/fda-accepts-bla-resubmission-for-tabelecleucel-in-ebv-post-transplant-lymphoproliferative-disease"
-   }
-  ],
-  "val": [
-   {
-    "d": "2026-10-28",
-    "s": "Ensayo aleatorizado de fase II (TTVguideIT) en 260 receptores de trasplante renal de 13 centros europeos, con participación de INCLIVA, Hospital Clínico Universitario de València e IIS La Fe: el ajuste de tacrolimus según carga de virus Torque-Teno cumplió no inferioridad (evento compuesto 35 % frente a 38 %), con menos dosis de tacrolimus. No redujo significativamente las infecciones. Es trasplante renal, no hematológico.",
-    "src": "El Periódic",
-    "t": "INCLIVA y el IIS La Fe participan en un estudio de dosificación personalizada de inmunosupresores tras un trasplante",
-    "u": "https://www.elperiodic.com/valencia/incliva-participan-estudio-avala-dosificacion-personalizada-inmunosupresores-tras-trasplante_1099753"
-   },
-   {
-    "d": "2026-10-22",
-    "s": "El Centro de Transfusión de la Comunitat Valenciana instaló un punto de donación en el Salón Social El Cirer (La Nucía, Alicante) el 22 de octubre de 16:30 a 20:30, sin cita previa. Según el artículo, Alicante necesita unas 250 donaciones diarias para abastecer a sus hospitales.",
-    "src": "El Periódic",
-    "t": "Donación de sangre en La Nucía: el Centro de Transfusión se desplaza al Cirer",
-    "u": "https://www.elperiodic.com/lanucia/donacion-sangre-2026-sera-este-jueves-octubre-centro-transfusion-desplaza-cirer_1098257"
-   },
-   {
-    "d": "2026-10-13",
-    "s": "Se celebró del 15 al 17 de octubre de 2026 en el Ateneo Mercantil de Valencia, organizado por la Asociación Nacional de Enfermería Hematológica.",
-    "src": "Consejo de Enfermería de Castilla y León",
-    "t": "30.º Congreso Nacional de Enfermería Hematológica en Valencia",
-    "u": "https://enfermeriacyl.com/blog/2026/10/13/el-30o-congreso-nacional-de-enfermeria-hematologica-reunira-en-valencia-a-profesionales-de-todo-el-pais/"
-   },
-   {
-    "d": "2026-10-11",
-    "s": "Valencia fue una de las cuatro ciudades con carpa de donación, junto con Murcia, Madrid y Barcelona.",
-    "src": "Marketing Directo",
-    "t": "Carpa de donación de sangre en Valencia el 7 de octubre (campaña Milfshakes y Fini)",
-    "u": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/fini-milfshakes-construyen-campana-donacion-sangre-halloween"
-   }
-  ]
- },
- "updated": "2026-10-29T08:20:00+01:00"
+  "date": "2026-10-30",
+  "regions": {
+    "esp": [
+      {
+        "d": "2026-10-28",
+        "s": "Las instituciones que recibieron de Rocket Pharmaceuticals los derechos de la terapia génica para anemia de Fanconi subtipo A preparan una solicitud de exención hospitalaria ante la AEMPS. Es una preparación: no hay solicitud presentada ni decisión. Rocket retiró en 2025 su solicitud ante la EMA.",
+        "src": "Diariofarma",
+        "t": "La terapia génica de la anemia de Fanconi opta a la vía de exención hospitalaria en España",
+        "u": "https://diariofarma.com/2026/10/28/la-terapia-genica-de-la-anemia-de-fanconi-opta-a-la-via-de-exencion-hospitalaria-en-espana"
+      },
+      {
+        "d": "2026-10-28",
+        "s": "La Junta de Castilla-La Mancha pide sangre de todos los grupos, sobre todo 0 y A, en Toledo, Ciudad Real y Alcázar de San Juan. La Comunidad de Madrid también ha solicitado donaciones.",
+        "src": "El Español",
+        "t": "Llamamiento urgente a donar sangre tras el accidente ferroviario de Urda (Toledo)",
+        "u": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261028/llamamiento-urgente-donar-sangre-toledo-ciudad-real-accidente-ferroviario/1003744438002_0.html"
+      },
+      {
+        "d": "2026-10-27",
+        "s": "Hematólogo del Hospital Clínic de Barcelona y expresidente de GELTAMO, presidirá la SEHH en 2026-2030. Prioridades anunciadas: acreditar un quinto año de MIR en Hematología, integrar la inteligencia artificial y acreditar unidades funcionales, empezando por linfoma y mieloma.",
+        "src": "Redacción Médica",
+        "t": "Armando López Guillermo, nuevo presidente de la SEHH",
+        "u": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261027/armando-lopez-guillermo-presidira-la-sociedad-espanola-de-hematologia-hemoterapia/363515_0.html"
+      },
+      {
+        "d": "2026-10-19",
+        "s": "Un paciente del Hospital La Paz es el primero de la Comunidad de Madrid en recibir terapia génica para hemofilia B, en una infusión única. El artículo no especifica el fármaco; recuerda que Hemgenix es la única terapia génica para esta indicación con financiación pública en España, con pagos anuales condicionados a mantener actividad de factor IX de al menos el 5 %.",
+        "src": "Crónica del Henares",
+        "t": "La Paz, primera terapia génica de Madrid para hemofilia B",
+        "u": "https://www.cronicadelhenares.com/2026/10/la-paz-terapia-genica-hemofilia-b-madrid.html"
+      },
+      {
+        "d": "2026-10-11",
+        "s": "El creador Nil Ojeda y las marcas Fini y Milfshakes organizaron una campaña de cinco días con carpas de donación el 7 y el 8 de octubre y aludieron al estado de las reservas de sangre en España. Según el medio, se recogieron más de 225 litros. Es una campaña de marketing; el artículo no cita ninguna entidad sanitaria.",
+        "src": "Marketing Directo",
+        "t": "Campaña de donación de sangre de Milfshakes y Fini, con carpas en Valencia, Madrid, Barcelona y Murcia",
+        "u": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/fini-milfshakes-construyen-campana-donacion-sangre-halloween"
+      }
+    ],
+    "eur": [
+      {
+        "d": "2026-10-22",
+        "s": "Tafasitamab más R2 y epcoritamab más R2 se recomiendan desde la primera recaída por evidencia de fase III; en tercera línea se priorizan los biespecíficos CD20xCD3, CAR-T y combinaciones. Algunos fármacos recomendados no tienen aprobación de la EMA para esta indicación.",
+        "src": "OncoDaily (guía de Ladetto et al., HemaSphere)",
+        "t": "Guía EHA 2026 de linfoma folicular: el cambio llega en la primera recaída",
+        "u": "https://oncodaily.com/hematology/follicular-lymphoma-eha-2026-614278"
+      },
+      {
+        "d": "2026-10-16",
+        "s": "El CHMP (12-15 octubre) recomendó el biosimilar de filgrastim Neuzafy para neutropenia. Confirmó la denegación de Yartemlea (narsoplimab) en microangiopatía trombótica tras trasplante de progenitores y no recomendó la extensión de Mylotarg a niños con LMA de nuevo diagnóstico. No hubo nuevos fármacos para hemofilia ni trombosis.",
+        "src": "EMA",
+        "t": "Resumen del CHMP de octubre de 2026: Neuzafy recomendado y Yartemlea denegado en revisión",
+        "u": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026"
+      }
+    ],
+    "mun": [
+      {
+        "d": "2026-10-27",
+        "s": "Fase 3 CERVINO (393 pacientes): tasa de respuesta global 74,0 % frente a 45,7 % y HR de supervivencia libre de progresión 0,40 frente al tratamiento estándar. Síndrome de liberación de citocinas en el 28,3 %, casi todos de grado 1 o 2. Es una solicitud, no una aprobación.",
+        "src": "OncLive",
+        "t": "AbbVie solicita a la FDA la aprobación de etentamig en mieloma múltiple en recaída o refractario",
+        "u": "https://onclive.com/view/fda-receives-bla-for-etentamig-in-r-r-multiple-myeloma"
+      },
+      {
+        "d": "2026-10-26",
+        "s": "Aprobación de la NMPA china de asundexian 50 mg al día (Sunharbo) para reducir el riesgo de ictus tras ictus isquémico no cardioembólico o AIT de alto riesgo. En OCEANIC-STROKE (12.327 pacientes) redujo el ictus isquémico un 26 % con sangrados totales similares, según Bayer. Hay solicitudes en revisión en otros mercados.",
+        "src": "Bayer",
+        "t": "China aprueba asundexian, primer inhibidor del factor XIa autorizado, en prevención de ictus",
+        "u": "https://bayer.com/media/en-us/asundexian-first-factor-xia-inhibitor-approved-in-china-for-stroke-risk-reduction-after-priority-review"
+      },
+      {
+        "d": "2026-10-26",
+        "s": "Inhibidor oral de la interacción menina-KMT2A, en estudio en fase 1/2 (Horizen-1) en LMA y LLA en recaída o refractarias. La designación acelera la revisión; no implica aprobación.",
+        "src": "OncLive",
+        "t": "La FDA concede la designación de terapia innovadora a enzomenib en leucemia aguda con KMT2A reordenado",
+        "u": "https://www.onclive.com/view/fda-grants-breakthrough-therapy-designation-to-enzomenib-in-r-r-kmt2a-rearranged-acute-leukemia"
+      },
+      {
+        "d": "2026-10-14",
+        "s": "La FDA aceptó el reenvío de la solicitud (BLA) de tabelecleucel en enfermedad linfoproliferativa postrasplante EBV positiva, en pacientes de 2 años o más con al menos una terapia previa; fecha PDUFA 31 de marzo de 2027. Es una aceptación para revisión, no una aprobación. Datos ALLELE (n = 75): respuesta global 50,7 %.",
+        "src": "OncLive",
+        "t": "La FDA acepta el reenvío de la solicitud de tabelecleucel en PTLD con EBV",
+        "u": "https://www.onclive.com/view/fda-accepts-bla-resubmission-for-tabelecleucel-in-ebv-post-transplant-lymphoproliferative-disease"
+      }
+    ],
+    "val": [
+      {
+        "d": "2026-10-28",
+        "s": "Ensayo aleatorizado de fase II (TTVguideIT) en 260 receptores de trasplante renal de 13 centros europeos, con participación de INCLIVA, Hospital Clínico Universitario de València e IIS La Fe: el ajuste de tacrolimus según carga de virus Torque-Teno cumplió no inferioridad (evento compuesto 35 % frente a 38 %), con menos dosis de tacrolimus. No redujo significativamente las infecciones. Es trasplante renal, no hematológico.",
+        "src": "El Periódic",
+        "t": "INCLIVA y el IIS La Fe participan en un estudio de dosificación personalizada de inmunosupresores tras un trasplante",
+        "u": "https://www.elperiodic.com/valencia/incliva-participan-estudio-avala-dosificacion-personalizada-inmunosupresores-tras-trasplante_1099753"
+      },
+      {
+        "d": "2026-10-22",
+        "s": "El Centro de Transfusión de la Comunitat Valenciana instaló un punto de donación en el Salón Social El Cirer (La Nucía, Alicante) el 22 de octubre de 16:30 a 20:30, sin cita previa. Según el artículo, Alicante necesita unas 250 donaciones diarias para abastecer a sus hospitales.",
+        "src": "El Periódic",
+        "t": "Donación de sangre en La Nucía: el Centro de Transfusión se desplaza al Cirer",
+        "u": "https://www.elperiodic.com/lanucia/donacion-sangre-2026-sera-este-jueves-octubre-centro-transfusion-desplaza-cirer_1098257"
+      },
+      {
+        "d": "2026-10-13",
+        "s": "Se celebró del 15 al 17 de octubre de 2026 en el Ateneo Mercantil de Valencia, organizado por la Asociación Nacional de Enfermería Hematológica.",
+        "src": "Consejo de Enfermería de Castilla y León",
+        "t": "30.º Congreso Nacional de Enfermería Hematológica en Valencia",
+        "u": "https://enfermeriacyl.com/blog/2026/10/13/el-30o-congreso-nacional-de-enfermeria-hematologica-reunira-en-valencia-a-profesionales-de-todo-el-pais/"
+      },
+      {
+        "d": "2026-10-11",
+        "s": "Valencia fue una de las cuatro ciudades con carpa de donación, junto con Murcia, Madrid y Barcelona.",
+        "src": "Marketing Directo",
+        "t": "Carpa de donación de sangre en Valencia el 7 de octubre (campaña Milfshakes y Fini)",
+        "u": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/fini-milfshakes-construyen-campana-donacion-sangre-halloween"
+      }
+    ]
+  },
+  "updated": "2026-10-30T08:00:00+01:00"
 }
