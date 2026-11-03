@@ -1,5 +1,6 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
+  "updated": "2026-11-03T08:00:00+01:00",
   "regions": {
     "esp": [
       {
@@ -29,13 +30,6 @@
         "src": "Crónica del Henares",
         "t": "La Paz, primera terapia génica de Madrid para hemofilia B",
         "u": "https://www.cronicadelhenares.com/2026/10/la-paz-terapia-genica-hemofilia-b-madrid.html"
-      },
-      {
-        "d": "2026-10-11",
-        "s": "El creador Nil Ojeda y las marcas Fini y Milfshakes organizaron una campaña de cinco días con carpas de donación el 7 y el 8 de octubre y aludieron al estado de las reservas de sangre en España. Según el medio, se recogieron más de 225 litros. Es una campaña de marketing; el artículo no cita ninguna entidad sanitaria.",
-        "src": "Marketing Directo",
-        "t": "Campaña de donación de sangre de Milfshakes y Fini, con carpas en Valencia, Madrid, Barcelona y Murcia",
-        "u": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/fini-milfshakes-construyen-campana-donacion-sangre-halloween"
       }
     ],
     "eur": [
@@ -98,22 +92,7 @@
         "src": "El Periódic",
         "t": "Donación de sangre en La Nucía: el Centro de Transfusión se desplaza al Cirer",
         "u": "https://www.elperiodic.com/lanucia/donacion-sangre-2026-sera-este-jueves-octubre-centro-transfusion-desplaza-cirer_1098257"
-      },
-      {
-        "d": "2026-10-13",
-        "s": "Se celebró del 15 al 17 de octubre de 2026 en el Ateneo Mercantil de Valencia, organizado por la Asociación Nacional de Enfermería Hematológica.",
-        "src": "Consejo de Enfermería de Castilla y León",
-        "t": "30.º Congreso Nacional de Enfermería Hematológica en Valencia",
-        "u": "https://enfermeriacyl.com/blog/2026/10/13/el-30o-congreso-nacional-de-enfermeria-hematologica-reunira-en-valencia-a-profesionales-de-todo-el-pais/"
-      },
-      {
-        "d": "2026-10-11",
-        "s": "Valencia fue una de las cuatro ciudades con carpa de donación, junto con Murcia, Madrid y Barcelona.",
-        "src": "Marketing Directo",
-        "t": "Carpa de donación de sangre en Valencia el 7 de octubre (campaña Milfshakes y Fini)",
-        "u": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/fini-milfshakes-construyen-campana-donacion-sangre-halloween"
       }
     ]
-  },
-  "updated": "2026-11-02T09:00:00+01:00"
+  }
 }
