@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-03",
-  "updated": "2026-11-03T08:00:00+01:00",
+  "date": "2026-11-04",
+  "updated": "2026-11-04T08:00:00+01:00",
   "regions": {
     "esp": [
       {
@@ -69,13 +69,6 @@
         "src": "OncLive",
         "t": "La FDA concede la designación de terapia innovadora a enzomenib en leucemia aguda con KMT2A reordenado",
         "u": "https://www.onclive.com/view/fda-grants-breakthrough-therapy-designation-to-enzomenib-in-r-r-kmt2a-rearranged-acute-leukemia"
-      },
-      {
-        "d": "2026-10-14",
-        "s": "La FDA aceptó el reenvío de la solicitud (BLA) de tabelecleucel en enfermedad linfoproliferativa postrasplante EBV positiva, en pacientes de 2 años o más con al menos una terapia previa; fecha PDUFA 31 de marzo de 2027. Es una aceptación para revisión, no una aprobación. Datos ALLELE (n = 75): respuesta global 50,7 %.",
-        "src": "OncLive",
-        "t": "La FDA acepta el reenvío de la solicitud de tabelecleucel en PTLD con EBV",
-        "u": "https://www.onclive.com/view/fda-accepts-bla-resubmission-for-tabelecleucel-in-ebv-post-transplant-lymphoproliferative-disease"
       }
     ],
     "val": [
