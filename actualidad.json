@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "regions": {
     "esp": [
       {
@@ -38,13 +38,6 @@
         "src": "OncoDaily (guía de Ladetto et al., HemaSphere)",
         "t": "Guía EHA 2026 de linfoma folicular: el cambio llega en la primera recaída",
         "u": "https://oncodaily.com/hematology/follicular-lymphoma-eha-2026-614278"
-      },
-      {
-        "d": "2026-10-16",
-        "s": "El CHMP (12-15 octubre) recomendó el biosimilar de filgrastim Neuzafy para neutropenia. Confirmó la denegación de Yartemlea (narsoplimab) en microangiopatía trombótica tras trasplante de progenitores y no recomendó la extensión de Mylotarg a niños con LMA de nuevo diagnóstico. No hubo nuevos fármacos para hemofilia ni trombosis.",
-        "src": "EMA",
-        "t": "Resumen del CHMP de octubre de 2026: Neuzafy recomendado y Yartemlea denegado en revisión",
-        "u": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026"
       }
     ],
     "mun": [
@@ -87,5 +80,5 @@
       }
     ]
   },
-  "updated": "2026-11-05T06:10:00+01:00"
+  "updated": "2026-11-06T08:00:00+01:00"
 }
