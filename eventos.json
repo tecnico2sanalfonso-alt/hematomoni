@@ -1,6 +1,5 @@
 {
-  "date": "2026-11-06",
-  "updated": "2026-11-06T10:00:00+01:00",
+  "date": "2026-11-09",
   "items": [
     {
       "a": "esp",
@@ -68,5 +67,6 @@
       "u": "https://ehaweb.org/connect-network/eha2027-congress",
       "w": "Barcelona (formato híbrido)"
     }
-  ]
+  ],
+  "updated": "2026-11-09T10:00:00+01:00"
 }
