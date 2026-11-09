@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-09",
   "regions": {
     "esp": [
       {
@@ -22,13 +22,6 @@
         "src": "Redacción Médica",
         "t": "Armando López Guillermo, nuevo presidente de la SEHH",
         "u": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261027/armando-lopez-guillermo-presidira-la-sociedad-espanola-de-hematologia-hemoterapia/363515_0.html"
-      },
-      {
-        "d": "2026-10-19",
-        "s": "Un paciente del Hospital La Paz es el primero de la Comunidad de Madrid en recibir terapia génica para hemofilia B, en una infusión única. El artículo no especifica el fármaco; recuerda que Hemgenix es la única terapia génica para esta indicación con financiación pública en España, con pagos anuales condicionados a mantener actividad de factor IX de al menos el 5 %.",
-        "src": "Crónica del Henares",
-        "t": "La Paz, primera terapia génica de Madrid para hemofilia B",
-        "u": "https://www.cronicadelhenares.com/2026/10/la-paz-terapia-genica-hemofilia-b-madrid.html"
       }
     ],
     "eur": [
@@ -80,5 +73,5 @@
       }
     ]
   },
-  "updated": "2026-11-06T08:00:00+01:00"
+  "updated": "2026-11-09T08:00:00+01:00"
 }
