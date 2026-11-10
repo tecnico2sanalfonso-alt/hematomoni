@@ -1,5 +1,6 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
+  "updated": "2026-11-10T08:00:00+01:00",
   "regions": {
     "esp": [
       {
@@ -72,6 +73,5 @@
         "u": "https://www.elperiodic.com/lanucia/donacion-sangre-2026-sera-este-jueves-octubre-centro-transfusion-desplaza-cirer_1098257"
       }
     ]
-  },
-  "updated": "2026-11-09T08:00:00+01:00"
+  }
 }
