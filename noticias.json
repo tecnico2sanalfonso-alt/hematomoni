@@ -1,6 +1,12 @@
 {
-  "date": "2026-11-11",
-  "updated": "2026-11-11T06:10:00+01:00",
-  "main": null,
+  "date": "2026-11-12",
+  "updated": "2026-11-12T06:30:00+01:00",
+  "main": {
+    "title": "La FDA aprueba asundexian (Sunharbo), primer inhibidor del factor XIa, en prevención secundaria del ictus",
+    "summary": "Aprobación de la FDA (9 de noviembre de 2026) de asundexian 50 mg al día, añadido al tratamiento antiagregante, para reducir el riesgo de ictus tras un ictus isquémico no cardioembólico leve-moderado o un AIT de alto riesgo. En OCEANIC-STROKE (12.327 pacientes) redujo el ictus isquémico un 26 % frente a placebo sin aumento significativo global del sangrado mayor ISTH; no está aprobado en fibrilación auricular.",
+    "why": "Es el primer anticoagulante de una nueva clase (anti-FXIa) que llega a la práctica en EE. UU., y obliga a conocer su manejo perioperatorio y su interferencia con las pruebas de coagulación.",
+    "url": "https://www.tctmd.com/news/asundexian-first-factor-xia-inhibitor-gain-fda-approval",
+    "source": "TCTMD"
+  },
   "secondary": null
 }

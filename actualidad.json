@@ -1,7 +1,16 @@
 {
-  "date": "2026-11-11",
-  "updated": "2026-11-11T06:10:00+01:00",
+  "date": "2026-11-12",
+  "updated": "2026-11-12T06:30:00+01:00",
   "regions": {
+    "val": [
+      {
+        "d": "2026-10-28",
+        "s": "Ensayo aleatorizado de fase II (TTVguideIT) en 260 receptores de trasplante renal de 13 centros europeos, con participación de INCLIVA, Hospital Clínico Universitario de València e IIS La Fe: el ajuste de tacrolimus según carga de virus Torque-Teno cumplió no inferioridad (evento compuesto 35 % frente a 38 %), con menos dosis de tacrolimus. No redujo significativamente las infecciones. Es trasplante renal, no hematológico.",
+        "src": "El Periódic",
+        "t": "INCLIVA y el IIS La Fe participan en un estudio de dosificación personalizada de inmunosupresores tras un trasplante",
+        "u": "https://www.elperiodic.com/valencia/incliva-participan-estudio-avala-dosificacion-personalizada-inmunosupresores-tras-trasplante_1099753"
+      }
+    ],
     "esp": [
       {
         "d": "2026-10-28",
@@ -27,14 +36,28 @@
     ],
     "eur": [
       {
-        "d": "2026-10-22",
-        "s": "Tafasitamab más R2 y epcoritamab más R2 se recomiendan desde la primera recaída por evidencia de fase III; en tercera línea se priorizan los biespecíficos CD20xCD3, CAR-T y combinaciones. Algunos fármacos recomendados no tienen aprobación de la EMA para esta indicación.",
-        "src": "OncoDaily (guía de Ladetto et al., HemaSphere)",
-        "t": "Guía EHA 2026 de linfoma folicular: el cambio llega en la primera recaída",
-        "u": "https://oncodaily.com/hematology/follicular-lymphoma-eha-2026-614278"
+        "t": "La Comisión Europea aprueba teclistamab en monoterapia desde la primera recaída del mieloma múltiple",
+        "s": "Aprobación de la Comisión Europea de una extensión de indicación de teclistamab (Tecvayli) en monoterapia para adultos con mieloma múltiple en recaída o refractario tras al menos una línea previa. Es una aprobación, no una recomendación.",
+        "u": "https://www.globenewswire.com/news-release/2026/10/23/3387167/0/en/european-commission-approves-johnson-johnson-s-tecvayli-teclistamab-monotherapy-for-relapsed-refractory-multiple-myeloma-expanding-treatment-options-from-first-relapse.html",
+        "src": "Johnson & Johnson (nota de prensa)",
+        "d": "2026-10-23"
       }
     ],
     "mun": [
+      {
+        "t": "La FDA aprueba asundexian, primer inhibidor del factor XIa, en prevención secundaria del ictus",
+        "s": "Aprobación de la FDA de asundexian 50 mg (Sunharbo, Bayer), junto con antiagregación, tras ictus isquémico no cardioembólico leve-moderado o AIT de alto riesgo. Basada en OCEANIC-STROKE (12.327 pacientes): reducción relativa del ictus isquémico del 26 % frente a placebo. No está aprobado en fibrilación auricular.",
+        "u": "https://www.tctmd.com/news/asundexian-first-factor-xia-inhibitor-gain-fda-approval",
+        "src": "TCTMD",
+        "d": "2026-11-09"
+      },
+      {
+        "t": "Hemab inicia SOLARA, ensayo pivotal de fase 3 de sutacimig en trombastenia de Glanzmann",
+        "s": "Ensayo abierto, de un solo brazo, con unos 75 pacientes de 12 a 70 años con al menos cuatro sangrados tratados en el último año: 24 semanas de periodo de observación y 48 semanas de sutacimig 0,2 mg/kg subcutáneo semanal. Variable principal: tasa anualizada de sangrados tratados frente al periodo de observación. Es el inicio del ensayo, sin resultados.",
+        "u": "https://www.financialcontent.com/article/gnwcq-2026-11-9-hemab-therapeutics-initiates-solara-a-pivotal-phase-3-trial-of-sutacimig-in-glanzmann-thrombasthenia",
+        "src": "Hemab Therapeutics (nota de prensa)",
+        "d": "2026-11-09"
+      },
       {
         "d": "2026-10-27",
         "s": "Fase 3 CERVINO (393 pacientes): tasa de respuesta global 74,0 % frente a 45,7 % y HR de supervivencia libre de progresión 0,40 frente al tratamiento estándar. Síndrome de liberación de citocinas en el 28,3 %, casi todos de grado 1 o 2. Es una solicitud, no una aprobación.",
@@ -55,22 +78,6 @@
         "src": "OncLive",
         "t": "La FDA concede la designación de terapia innovadora a enzomenib en leucemia aguda con KMT2A reordenado",
         "u": "https://www.onclive.com/view/fda-grants-breakthrough-therapy-designation-to-enzomenib-in-r-r-kmt2a-rearranged-acute-leukemia"
-      }
-    ],
-    "val": [
-      {
-        "d": "2026-10-28",
-        "s": "Ensayo aleatorizado de fase II (TTVguideIT) en 260 receptores de trasplante renal de 13 centros europeos, con participación de INCLIVA, Hospital Clínico Universitario de València e IIS La Fe: el ajuste de tacrolimus según carga de virus Torque-Teno cumplió no inferioridad (evento compuesto 35 % frente a 38 %), con menos dosis de tacrolimus. No redujo significativamente las infecciones. Es trasplante renal, no hematológico.",
-        "src": "El Periódic",
-        "t": "INCLIVA y el IIS La Fe participan en un estudio de dosificación personalizada de inmunosupresores tras un trasplante",
-        "u": "https://www.elperiodic.com/valencia/incliva-participan-estudio-avala-dosificacion-personalizada-inmunosupresores-tras-trasplante_1099753"
-      },
-      {
-        "d": "2026-10-22",
-        "s": "El Centro de Transfusión de la Comunitat Valenciana instaló un punto de donación en el Salón Social El Cirer (La Nucía, Alicante) el 22 de octubre de 16:30 a 20:30, sin cita previa. Según el artículo, Alicante necesita unas 250 donaciones diarias para abastecer a sus hospitales.",
-        "src": "El Periódic",
-        "t": "Donación de sangre en La Nucía: el Centro de Transfusión se desplaza al Cirer",
-        "u": "https://www.elperiodic.com/lanucia/donacion-sangre-2026-sera-este-jueves-octubre-centro-transfusion-desplaza-cirer_1098257"
       }
     ]
   }
