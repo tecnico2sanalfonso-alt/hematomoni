@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "updated": "2026-11-11T06:30:00+01:00",
+  "date": "2026-11-12",
+  "updated": "2026-11-12T06:30:00+01:00",
   "items": [
     {
       "a": "val",
@@ -34,6 +34,27 @@
       "t": "Jornada sobre nuevos problemas infecciosos en pacientes con mieloma múltiple bajo tratamiento con anti-BCMA",
       "u": "https://sehh.es/oferta-formativa/jornada-sobre-nuevos-problemas-infecciosos-en-pacientes-con-mieloma-multiple-bajo-tratamiento-con-anti-bcma/",
       "w": "Madrid, Salón de Actos de la SEHH (híbrido, asistencia en línea gratuita)"
+    },
+    {
+      "d": "2026-11-18",
+      "t": "I Jornada Post-ISHL 2026",
+      "w": "En línea (formato virtual)",
+      "a": "esp",
+      "k": "Jornada",
+      "org": "Asociación Andaluza de Hematología y Hemoterapia (AAHH), grupo GRANEL-Linfomas/LLC",
+      "u": "https://www.aa-hh.org/eventos/",
+      "n": "Jornada virtual sobre las novedades del ISHL (linfomas), el 18 de noviembre de 2026, según la agenda de eventos de la AAHH, que enlaza un programa preliminar. La hora no figura en lo verificado."
+    },
+    {
+      "d": "2026-12-01",
+      "h": "17:30",
+      "t": "II Encuentro Interregional HPN (2.ª edición)",
+      "w": "Ver ficha de la SEHH (el ciclo se celebra en formato webinar)",
+      "a": "esp",
+      "k": "Encuentro",
+      "org": "SEHH y Fundación Española de Hematología y Hemoterapia",
+      "u": "https://www.sehh.es/servicios-para-los-socios/agenda/101420-agenda/1015-ii-encuentro-interregional-hpn-2-edicion",
+      "n": "Encuentro sobre hemoglobinuria paroxística nocturna de 17:30 a 19:00, según la agenda de la SEHH, con inscripción y programa enlazados. La SEHH indica que los encuentros del ciclo son webinars con inscripción gratuita en su Campus Virtual."
     },
     {
       "a": "eur",
