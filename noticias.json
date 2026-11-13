@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-12",
-  "updated": "2026-11-12T06:30:00+01:00",
+  "date": "2026-11-13",
+  "updated": "2026-11-13T06:03:45+01:00",
   "main": {
-    "title": "La FDA aprueba asundexian (Sunharbo), primer inhibidor del factor XIa, en prevención secundaria del ictus",
-    "summary": "Aprobación de la FDA (9 de noviembre de 2026) de asundexian 50 mg al día, añadido al tratamiento antiagregante, para reducir el riesgo de ictus tras un ictus isquémico no cardioembólico leve-moderado o un AIT de alto riesgo. En OCEANIC-STROKE (12.327 pacientes) redujo el ictus isquémico un 26 % frente a placebo sin aumento significativo global del sangrado mayor ISTH; no está aprobado en fibrilación auricular.",
-    "why": "Es el primer anticoagulante de una nueva clase (anti-FXIa) que llega a la práctica en EE. UU., y obliga a conocer su manejo perioperatorio y su interferencia con las pruebas de coagulación.",
-    "url": "https://www.tctmd.com/news/asundexian-first-factor-xia-inhibitor-gain-fda-approval",
-    "source": "TCTMD"
+    "title": "La FDA autoriza el primer ensayo en humanos de MGX-001, edición génica in vivo para la hemofilia A",
+    "summary": "La FDA ha aceptado la solicitud IND de MGX-001 (Metagenomi), que integra de forma dirigida un gen de FVIII bajo el promotor endógeno de la albúmina, lo que permite iniciar el ensayo de fase 1/2 INTEGR8 en adultos con hemofilia A moderadamente grave o grave, previsto para el primer semestre de 2027. Es una autorización para comenzar el ensayo, no una aprobación, y aún no hay datos en pacientes; los datos preclínicos se presentarán en ASH 2026.",
+    "why": "Es un paso hacia una terapia de administración única para la hemofilia A basada en integración dirigida del gen de FVIII; conviene seguir sus datos preclínicos en ASH 2026 y los primeros resultados en pacientes.",
+    "url": "https://www.globenewswire.com/news-release/2026/11/10/3400201/0/en/metagenomi-therapeutics-announces-fda-clearance-of-investigational-new-drug-application-for-mgx-001-and-reports-third-quarter-2026-financial-results.html",
+    "source": "Metagenomi (nota de prensa, GlobeNewswire)"
   },
   "secondary": null
 }

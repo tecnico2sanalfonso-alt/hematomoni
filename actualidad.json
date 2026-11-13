@@ -1,8 +1,15 @@
 {
-  "date": "2026-11-12",
-  "updated": "2026-11-12T06:30:00+01:00",
+  "date": "2026-11-13",
+  "updated": "2026-11-13T06:03:45+01:00",
   "regions": {
     "val": [
+      {
+        "t": "XXVI Maratón de Donación de Sangre en la Diputación de Alicante",
+        "s": "Organizado por el Centro de Transfusión de la Comunitat Valenciana con la Diputación de Alicante en el Palacio Provincial: viernes 13 de noviembre de 16:00 a 21:00 y sábado 14 de 9:30 a 14:00 y de 16:00 a 21:00. Se puede donar sangre y plasma.",
+        "u": "https://www.diputacionalicante.es/noticias/la-diputacion-de-alicante-acoge-este-fin-de-semana-su-tradicional-maraton-de-donacion-de-sangre-4/",
+        "src": "Diputación de Alicante",
+        "d": "2026-11-12"
+      },
       {
         "d": "2026-10-28",
         "s": "Ensayo aleatorizado de fase II (TTVguideIT) en 260 receptores de trasplante renal de 13 centros europeos, con participación de INCLIVA, Hospital Clínico Universitario de València e IIS La Fe: el ajuste de tacrolimus según carga de virus Torque-Teno cumplió no inferioridad (evento compuesto 35 % frente a 38 %), con menos dosis de tacrolimus. No redujo significativamente las infecciones. Es trasplante renal, no hematológico.",
@@ -12,6 +19,20 @@
       }
     ],
     "esp": [
+      {
+        "t": "La SEHH y la SEOR firman un convenio marco de colaboración en formación e investigación",
+        "s": "La Sociedad Española de Hematología y Hemoterapia y la Sociedad Española de Oncología Radioterápica firman un convenio marco de dos años prorrogables para reforzar la formación y la investigación clínica, que se desarrollará mediante acuerdos específicos.",
+        "u": "https://www.consalud.es/profesionales/medicina/oncologos-radioterapicos-y-hematologos-firman-un-acuerdo-para-potenciar-la-formacion-y-la-investigacion.html",
+        "src": "ConSalud",
+        "d": "2026-11-11"
+      },
+      {
+        "t": "La AEMPS publica el informe de posicionamiento de nivolumab con AVD en linfoma de Hodgkin avanzado no tratado",
+        "s": "Informe de posicionamiento terapéutico (no una nueva autorización) de nivolumab con doxorrubicina, vinblastina y dacarbazina en linfoma de Hodgkin clásico estadio III-IV no tratado desde los 12 años. Frente a brentuximab-AVD, supervivencia libre de progresión a 2 años del 93 % frente al 83,5 %, con más toxicidad de grado 3 o superior, sobre todo neutropenia. N-AVD se considera preferente de 12 a 17 años y en mayores de 60; de 18 a 60 años, N-AVD y BrECADD son alternativas.",
+        "u": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261110/nuevos-ipt-para-cancer-migrana-aguda-control-de-hambre-obesidad/364770_0.html",
+        "src": "Redacción Médica",
+        "d": "2026-11-10"
+      },
       {
         "d": "2026-10-28",
         "s": "Las instituciones que recibieron de Rocket Pharmaceuticals los derechos de la terapia génica para anemia de Fanconi subtipo A preparan una solicitud de exención hospitalaria ante la AEMPS. Es una preparación: no hay solicitud presentada ni decisión. Rocket retiró en 2025 su solicitud ante la EMA.",
@@ -34,16 +55,15 @@
         "u": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261027/armando-lopez-guillermo-presidira-la-sociedad-espanola-de-hematologia-hemoterapia/363515_0.html"
       }
     ],
-    "eur": [
-      {
-        "t": "La Comisión Europea aprueba teclistamab en monoterapia desde la primera recaída del mieloma múltiple",
-        "s": "Aprobación de la Comisión Europea de una extensión de indicación de teclistamab (Tecvayli) en monoterapia para adultos con mieloma múltiple en recaída o refractario tras al menos una línea previa. Es una aprobación, no una recomendación.",
-        "u": "https://www.globenewswire.com/news-release/2026/10/23/3387167/0/en/european-commission-approves-johnson-johnson-s-tecvayli-teclistamab-monotherapy-for-relapsed-refractory-multiple-myeloma-expanding-treatment-options-from-first-relapse.html",
-        "src": "Johnson & Johnson (nota de prensa)",
-        "d": "2026-10-23"
-      }
-    ],
+    "eur": [],
     "mun": [
+      {
+        "t": "La FDA autoriza el primer ensayo en humanos de MGX-001, edición génica in vivo para la hemofilia A",
+        "s": "La FDA ha aceptado la solicitud de nuevo fármaco en investigación (IND) de MGX-001 (Metagenomi), terapia de edición génica in vivo que integra de forma dirigida un gen de FVIII bajo el promotor de la albúmina. Permite iniciar el ensayo de fase 1/2 INTEGR8, abierto y de un solo brazo con escalada de dosis, en adultos con hemofilia A moderadamente grave o grave, previsto para el primer semestre de 2027. Es una autorización para ensayar, no una aprobación; no hay datos en humanos.",
+        "u": "https://www.globenewswire.com/news-release/2026/11/10/3400201/0/en/metagenomi-therapeutics-announces-fda-clearance-of-investigational-new-drug-application-for-mgx-001-and-reports-third-quarter-2026-financial-results.html",
+        "src": "Metagenomi (nota de prensa)",
+        "d": "2026-11-10"
+      },
       {
         "t": "La FDA aprueba asundexian, primer inhibidor del factor XIa, en prevención secundaria del ictus",
         "s": "Aprobación de la FDA de asundexian 50 mg (Sunharbo, Bayer), junto con antiagregación, tras ictus isquémico no cardioembólico leve-moderado o AIT de alto riesgo. Basada en OCEANIC-STROKE (12.327 pacientes): reducción relativa del ictus isquémico del 26 % frente a placebo. No está aprobado en fibrilación auricular.",
