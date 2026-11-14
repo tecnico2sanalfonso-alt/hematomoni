@@ -1,12 +1,18 @@
 {
-  "date": "2026-11-13",
-  "updated": "2026-11-13T06:03:45+01:00",
+  "date": "2026-11-14",
+  "updated": "2026-11-14T06:03:43+01:00",
   "main": {
-    "title": "La FDA autoriza el primer ensayo en humanos de MGX-001, edición génica in vivo para la hemofilia A",
-    "summary": "La FDA ha aceptado la solicitud IND de MGX-001 (Metagenomi), que integra de forma dirigida un gen de FVIII bajo el promotor endógeno de la albúmina, lo que permite iniciar el ensayo de fase 1/2 INTEGR8 en adultos con hemofilia A moderadamente grave o grave, previsto para el primer semestre de 2027. Es una autorización para comenzar el ensayo, no una aprobación, y aún no hay datos en pacientes; los datos preclínicos se presentarán en ASH 2026.",
-    "why": "Es un paso hacia una terapia de administración única para la hemofilia A basada en integración dirigida del gen de FVIII; conviene seguir sus datos preclínicos en ASH 2026 y los primeros resultados en pacientes.",
-    "url": "https://www.globenewswire.com/news-release/2026/11/10/3400201/0/en/metagenomi-therapeutics-announces-fda-clearance-of-investigational-new-drug-application-for-mgx-001-and-reports-third-quarter-2026-financial-results.html",
-    "source": "Metagenomi (nota de prensa, GlobeNewswire)"
+    "title": "La Comisión Europea aprueba denecimig (Frehemgo), mimético del factor VIIIa, para la profilaxis de la hemofilia A",
+    "summary": "La Comisión Europea ha concedido la autorización de comercialización de denecimig (Frehemgo, Novo Nordisk) como profilaxis rutinaria para prevenir o reducir los sangrados en adultos y niños con hemofilia A, con o sin inhibidores, con pauta mensual, cada dos semanas o semanal en pluma precargada. Es la aprobación definitiva tras la opinión favorable del CHMP del 17 de septiembre de 2026; en el ensayo pivotal FRONTIER2 redujo significativamente la tasa anualizada de sangrados frente a la profilaxis previa con factor y al tratamiento a demanda. La FDA aún lo está revisando.",
+    "why": "Añade en Europa una opción de profilaxis que sirve también en pacientes con inhibidores y permite dosificar una vez al mes, lo que puede reducir la carga de tratamiento.",
+    "url": "https://www.globenewswire.com/news-release/2026/11/13/3402854/0/en/frehemgo-denecimig-approved-in-the-eu-for-haemophilia-a-with-a-choice-of-monthly-every-two-weeks-or-weekly-dosing.html",
+    "source": "Novo Nordisk (nota de prensa, GlobeNewswire)"
   },
-  "secondary": null
+  "secondary": {
+    "title": "Novo Nordisk solicita a la FDA y a la EMA la aprobación de etavopivat en la enfermedad de células falciformes",
+    "summary": "Se han presentado una solicitud de nuevo fármaco (FDA) y una solicitud de autorización de comercialización (EMA) para etavopivat, activador oral de la piruvato cinasa de toma diaria, en pacientes de 12 años o más. Se basan en el ensayo de fase 3 HIBISCUS, con una reducción del 27 % de las crisis vasooclusivas frente a placebo; se esperan decisiones en 2027. Es una solicitud, no una aprobación.",
+    "why": "Podría ser una nueva opción oral para la drepanocitosis, con efecto tanto en las crisis vasooclusivas como en la hemoglobina.",
+    "url": "https://www.biospace.com/press-releases/novo-submits-etavopivat-an-investigational-once-daily-therapy-for-adolescents-and-adults-living-with-sickle-cell-disease-to-the-fda-and-ema-for-approval",
+    "source": "Novo Nordisk (nota de prensa, BioSpace)"
+  }
 }

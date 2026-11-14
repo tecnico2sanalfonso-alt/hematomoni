@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "updated": "2026-11-13T06:03:45+01:00",
+  "date": "2026-11-14",
+  "updated": "2026-11-14T06:03:43+01:00",
   "regions": {
     "val": [
       {
@@ -55,8 +55,30 @@
         "u": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261027/armando-lopez-guillermo-presidira-la-sociedad-espanola-de-hematologia-hemoterapia/363515_0.html"
       }
     ],
-    "eur": [],
+    "eur": [
+      {
+        "t": "La Comisión Europea aprueba denecimig (Frehemgo) para la profilaxis de la hemofilia A con o sin inhibidores",
+        "s": "Aprobación de la Comisión Europea, tras la opinión favorable del CHMP del 17 de septiembre de 2026, de denecimig, mimético del factor VIIIa, como profilaxis rutinaria en adultos y niños con hemofilia A con o sin inhibidores, con pauta mensual, cada dos semanas o semanal. En FRONTIER2 redujo significativamente la tasa anualizada de sangrados frente a la profilaxis previa con factor y al tratamiento a demanda.",
+        "u": "https://www.globenewswire.com/news-release/2026/11/13/3402854/0/en/frehemgo-denecimig-approved-in-the-eu-for-haemophilia-a-with-a-choice-of-monthly-every-two-weeks-or-weekly-dosing.html",
+        "src": "Novo Nordisk (nota de prensa)",
+        "d": "2026-11-13"
+      },
+      {
+        "t": "La Comisión Europea amplía melflufen (Pepaxti) a la tercera línea en mieloma múltiple refractario a lenalidomida",
+        "s": "Aprobación de una variación de tipo II: melflufen con dexametasona en adultos con al menos dos líneas previas y refractarios a lenalidomida y a la última línea, sin exigir ya refractariedad a tres clases. Basada en el ensayo de fase 3 OCEAN: supervivencia libre de progresión mediana de 6,8 frente a 4,9 meses con pomalidomida-dexametasona (HR 0,79).",
+        "u": "https://www.onclive.com/view/melflufen-gains-eu-expansion-in-third-line-lenalidomide-refractory-multiple-myeloma",
+        "src": "OncLive",
+        "d": "2026-11-09"
+      }
+    ],
     "mun": [
+      {
+        "t": "Novo Nordisk solicita a la FDA y a la EMA la aprobación de etavopivat en la enfermedad de células falciformes",
+        "s": "Solicitudes presentadas (no aprobación) para etavopivat oral de toma diaria en pacientes de 12 años o más, basadas en el ensayo de fase 3 HIBISCUS: reducción del 27 % de las crisis vasooclusivas frente a placebo. Se esperan decisiones de la FDA y de la EMA en 2027.",
+        "u": "https://www.biospace.com/press-releases/novo-submits-etavopivat-an-investigational-once-daily-therapy-for-adolescents-and-adults-living-with-sickle-cell-disease-to-the-fda-and-ema-for-approval",
+        "src": "Novo Nordisk (nota de prensa)",
+        "d": "2026-11-13"
+      },
       {
         "t": "La FDA autoriza el primer ensayo en humanos de MGX-001, edición génica in vivo para la hemofilia A",
         "s": "La FDA ha aceptado la solicitud de nuevo fármaco en investigación (IND) de MGX-001 (Metagenomi), terapia de edición génica in vivo que integra de forma dirigida un gen de FVIII bajo el promotor de la albúmina. Permite iniciar el ensayo de fase 1/2 INTEGR8, abierto y de un solo brazo con escalada de dosis, en adultos con hemofilia A moderadamente grave o grave, previsto para el primer semestre de 2027. Es una autorización para ensayar, no una aprobación; no hay datos en humanos.",
@@ -84,13 +106,6 @@
         "src": "OncLive",
         "t": "AbbVie solicita a la FDA la aprobación de etentamig en mieloma múltiple en recaída o refractario",
         "u": "https://onclive.com/view/fda-receives-bla-for-etentamig-in-r-r-multiple-myeloma"
-      },
-      {
-        "d": "2026-10-26",
-        "s": "Aprobación de la NMPA china de asundexian 50 mg al día (Sunharbo) para reducir el riesgo de ictus tras ictus isquémico no cardioembólico o AIT de alto riesgo. En OCEANIC-STROKE (12.327 pacientes) redujo el ictus isquémico un 26 % con sangrados totales similares, según Bayer. Hay solicitudes en revisión en otros mercados.",
-        "src": "Bayer",
-        "t": "China aprueba asundexian, primer inhibidor del factor XIa autorizado, en prevención de ictus",
-        "u": "https://bayer.com/media/en-us/asundexian-first-factor-xia-inhibitor-approved-in-china-for-stroke-risk-reduction-after-priority-review"
       },
       {
         "d": "2026-10-26",
