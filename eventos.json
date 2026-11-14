@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "updated": "2026-11-13T06:40:00+01:00",
+  "date": "2026-11-14",
+  "updated": "2026-11-14T06:30:00+01:00",
   "items": [
     {
       "a": "esp",
@@ -12,6 +12,16 @@
       "t": "IV Jornada Neoplasias Hematológicas con predisposición Germinal",
       "u": "https://sehh.es/oferta-formativa/iv-jornada-neoplasias-hematologicas-predisposicion-germinal/",
       "w": "Madrid, Salón de Actos de la SEHH (formato híbrido, con opción en línea)"
+    },
+    {
+      "d": "2026-11-17",
+      "t": "Webinar WFH: Bleeding Disorders & Adolescence: Transition and Adherence During this Complex Stage",
+      "w": "En línea",
+      "a": "eur",
+      "k": "Webinar",
+      "org": "Federación Mundial de Hemofilia (WFH)",
+      "u": "https://wfh.org/article/wfh-november-webinars-explore-key-areas-of-bleeding-disorders-care/",
+      "n": "Webinar sobre adherencia al tratamiento y transición a la atención adulta en adolescentes con trastornos de la coagulación, dentro del ciclo de noviembre de la WFH. La hora publicada depende de la zona horaria: consultar la página de inscripción."
     },
     {
       "a": "esp",
@@ -33,6 +43,26 @@
       "t": "I Jornada Post-ISHL 2026",
       "u": "https://www.aa-hh.org/eventos/",
       "w": "En línea (formato virtual)"
+    },
+    {
+      "d": "2026-11-18",
+      "t": "Webinar WFH sobre sinovitis crónica en hemofilia",
+      "w": "En línea",
+      "a": "eur",
+      "k": "Webinar",
+      "org": "WFH, Comité Musculoesquelético",
+      "u": "https://wfh.org/article/wfh-november-webinars-explore-key-areas-of-bleeding-disorders-care/",
+      "n": "Perspectivas clínicas y de rehabilitación para reconocer y tratar la sinovitis crónica (sinovectomía, ablación vascular, plasma rico en plaquetas y rehabilitación). Duración de 90 minutos; consultar la hora local en la inscripción."
+    },
+    {
+      "d": "2026-11-23",
+      "t": "Webinar WFH sobre trastornos hemorrágicos raros",
+      "w": "En línea",
+      "a": "eur",
+      "k": "Webinar",
+      "org": "WFH, Comité de enfermedad de von Willebrand y trastornos hemorrágicos raros",
+      "u": "https://wfh.org/article/wfh-november-webinars-explore-key-areas-of-bleeding-disorders-care/",
+      "n": "Diagnóstico, monitorización de los nuevos tratamientos y lagunas de conocimiento en Europa, con la experiencia de Turquía. Duración de 90 minutos; consultar la hora local en la inscripción."
     },
     {
       "a": "esp",
