@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-14",
-  "updated": "2026-11-14T06:30:00+01:00",
+  "date": "2026-11-15",
+  "updated": "2026-11-15T06:30:00+01:00",
   "items": [
     {
       "a": "esp",
@@ -14,14 +14,24 @@
       "w": "Madrid, Salón de Actos de la SEHH (formato híbrido, con opción en línea)"
     },
     {
-      "d": "2026-11-17",
-      "t": "Webinar WFH: Bleeding Disorders & Adolescence: Transition and Adherence During this Complex Stage",
-      "w": "En línea",
       "a": "eur",
+      "d": "2026-11-17",
       "k": "Webinar",
+      "n": "Webinar sobre adherencia al tratamiento y transición a la atención adulta en adolescentes con trastornos de la coagulación, dentro del ciclo de noviembre de la WFH. La hora publicada depende de la zona horaria: consultar la página de inscripción.",
       "org": "Federación Mundial de Hemofilia (WFH)",
+      "t": "Webinar WFH: Bleeding Disorders & Adolescence: Transition and Adherence During this Complex Stage",
       "u": "https://wfh.org/article/wfh-november-webinars-explore-key-areas-of-bleeding-disorders-care/",
-      "n": "Webinar sobre adherencia al tratamiento y transición a la atención adulta en adolescentes con trastornos de la coagulación, dentro del ciclo de noviembre de la WFH. La hora publicada depende de la zona horaria: consultar la página de inscripción."
+      "w": "En línea"
+    },
+    {
+      "a": "esp",
+      "d": "2026-11-18",
+      "k": "Jornada",
+      "n": "Jornada virtual sobre las novedades del ISHL (linfomas), el 18 de noviembre de 2026, según la agenda de eventos de la AAHH, que enlaza un programa preliminar. La hora no figura en lo verificado.",
+      "org": "Asociación Andaluza de Hematología y Hemoterapia (AAHH), grupo GRANEL-Linfomas/LLC",
+      "t": "I Jornada Post-ISHL 2026",
+      "u": "https://www.aa-hh.org/eventos/",
+      "w": "En línea (formato virtual)"
     },
     {
       "a": "esp",
@@ -35,34 +45,24 @@
       "w": "Madrid, Salón de Actos de la SEHH (híbrido, asistencia en línea gratuita)"
     },
     {
-      "a": "esp",
-      "d": "2026-11-18",
-      "k": "Jornada",
-      "n": "Jornada virtual sobre las novedades del ISHL (linfomas), el 18 de noviembre de 2026, según la agenda de eventos de la AAHH, que enlaza un programa preliminar. La hora no figura en lo verificado.",
-      "org": "Asociación Andaluza de Hematología y Hemoterapia (AAHH), grupo GRANEL-Linfomas/LLC",
-      "t": "I Jornada Post-ISHL 2026",
-      "u": "https://www.aa-hh.org/eventos/",
-      "w": "En línea (formato virtual)"
-    },
-    {
-      "d": "2026-11-18",
-      "t": "Webinar WFH sobre sinovitis crónica en hemofilia",
-      "w": "En línea",
       "a": "eur",
+      "d": "2026-11-18",
       "k": "Webinar",
+      "n": "Perspectivas clínicas y de rehabilitación para reconocer y tratar la sinovitis crónica (sinovectomía, ablación vascular, plasma rico en plaquetas y rehabilitación). Duración de 90 minutos; consultar la hora local en la inscripción.",
       "org": "WFH, Comité Musculoesquelético",
+      "t": "Webinar WFH sobre sinovitis crónica en hemofilia",
       "u": "https://wfh.org/article/wfh-november-webinars-explore-key-areas-of-bleeding-disorders-care/",
-      "n": "Perspectivas clínicas y de rehabilitación para reconocer y tratar la sinovitis crónica (sinovectomía, ablación vascular, plasma rico en plaquetas y rehabilitación). Duración de 90 minutos; consultar la hora local en la inscripción."
+      "w": "En línea"
     },
     {
-      "d": "2026-11-23",
-      "t": "Webinar WFH sobre trastornos hemorrágicos raros",
-      "w": "En línea",
       "a": "eur",
+      "d": "2026-11-23",
       "k": "Webinar",
+      "n": "Diagnóstico, monitorización de los nuevos tratamientos y lagunas de conocimiento en Europa, con la experiencia de Turquía. Duración de 90 minutos; consultar la hora local en la inscripción.",
       "org": "WFH, Comité de enfermedad de von Willebrand y trastornos hemorrágicos raros",
+      "t": "Webinar WFH sobre trastornos hemorrágicos raros",
       "u": "https://wfh.org/article/wfh-november-webinars-explore-key-areas-of-bleeding-disorders-care/",
-      "n": "Diagnóstico, monitorización de los nuevos tratamientos y lagunas de conocimiento en Europa, con la experiencia de Turquía. Duración de 90 minutos; consultar la hora local en la inscripción."
+      "w": "En línea"
     },
     {
       "a": "esp",
@@ -74,6 +74,16 @@
       "t": "II Encuentro Interregional HPN (2.ª edición)",
       "u": "https://www.sehh.es/servicios-para-los-socios/agenda/101420-agenda/1015-ii-encuentro-interregional-hpn-2-edicion",
       "w": "Ver ficha de la SEHH (el ciclo se celebra en formato webinar)"
+    },
+    {
+      "d": "2026-12-01",
+      "k": "Curso en línea",
+      "t": "Programa de Especialización en Hematología, Curso 2: Hematología Clínica No Neoplásica",
+      "w": "En línea (webinars en directo en el Aula Virtual de la SEHH)",
+      "a": "esp",
+      "org": "SEHH",
+      "u": "https://sehh.es/oferta-formativa/programa-de-especializacion-en-hematologia-curso-2-hematologia-clinica-no-neoplasica/",
+      "n": "La ficha de la SEHH indica inicio el 1 de diciembre de 2026 y un precio general de 195 euros (gratuito con beca). El programa se imparte en módulos mensuales por webinar en directo de 16:00 a 18:00, dirigido a residentes y especialistas en hematología."
     },
     {
       "a": "eur",
