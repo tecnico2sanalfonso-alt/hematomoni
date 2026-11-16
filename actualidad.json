@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-15",
-  "updated": "2026-11-15T06:15:00+01:00",
+  "date": "2026-11-16",
+  "updated": "2026-11-16T06:30:00+01:00",
   "regions": {
     "val": [
       {
@@ -80,6 +80,13 @@
         "d": "2026-11-13"
       },
       {
+        "t": "NEJM: aspirina, warfarina o rivaroxabán durante 30 días tras artroplastia de cadera o rodilla",
+        "s": "Ensayo pragmático de no inferioridad con 18.883 pacientes aleatorizados (15.317 en el análisis por protocolo) a aspirina 81 mg cada 12 horas, warfarina (INR objetivo 2,0) o rivaroxabán 10 mg diarios durante 30 días. La aspirina no alcanzó la no inferioridad frente a rivaroxabán ni warfarina en muerte o ETV sintomática a 6 meses, con riesgos absolutos bajos y próximos entre brazos (en torno al 0,9-1,2 %). Publicado en línea el 11 de noviembre.",
+        "u": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602435",
+        "src": "New England Journal of Medicine",
+        "d": "2026-11-11"
+      },
+      {
         "t": "La FDA autoriza el primer ensayo en humanos de MGX-001, edición génica in vivo para la hemofilia A",
         "s": "La FDA ha aceptado la solicitud de nuevo fármaco en investigación (IND) de MGX-001 (Metagenomi), terapia de edición génica in vivo que integra de forma dirigida un gen de FVIII bajo el promotor de la albúmina. Permite iniciar el ensayo de fase 1/2 INTEGR8, abierto y de un solo brazo con escalada de dosis, en adultos con hemofilia A moderadamente grave o grave, previsto para el primer semestre de 2027. Es una autorización para ensayar, no una aprobación; no hay datos en humanos.",
         "u": "https://www.globenewswire.com/news-release/2026/11/10/3400201/0/en/metagenomi-therapeutics-announces-fda-clearance-of-investigational-new-drug-application-for-mgx-001-and-reports-third-quarter-2026-financial-results.html",
@@ -106,13 +113,6 @@
         "src": "OncLive",
         "t": "AbbVie solicita a la FDA la aprobación de etentamig en mieloma múltiple en recaída o refractario",
         "u": "https://onclive.com/view/fda-receives-bla-for-etentamig-in-r-r-multiple-myeloma"
-      },
-      {
-        "d": "2026-10-26",
-        "s": "Inhibidor oral de la interacción menina-KMT2A, en estudio en fase 1/2 (Horizen-1) en LMA y LLA en recaída o refractarias. La designación acelera la revisión; no implica aprobación.",
-        "src": "OncLive",
-        "t": "La FDA concede la designación de terapia innovadora a enzomenib en leucemia aguda con KMT2A reordenado",
-        "u": "https://www.onclive.com/view/fda-grants-breakthrough-therapy-designation-to-enzomenib-in-r-r-kmt2a-rearranged-acute-leukemia"
       }
     ]
   }
