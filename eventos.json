@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-15",
-  "updated": "2026-11-15T06:30:00+01:00",
+  "date": "2026-11-16",
+  "updated": "2026-11-16T06:30:00+01:00",
   "items": [
     {
       "a": "esp",
@@ -76,14 +76,25 @@
       "w": "Ver ficha de la SEHH (el ciclo se celebra en formato webinar)"
     },
     {
+      "a": "esp",
       "d": "2026-12-01",
       "k": "Curso en línea",
-      "t": "Programa de Especialización en Hematología, Curso 2: Hematología Clínica No Neoplásica",
-      "w": "En línea (webinars en directo en el Aula Virtual de la SEHH)",
-      "a": "esp",
+      "n": "La ficha de la SEHH indica inicio el 1 de diciembre de 2026 y un precio general de 195 euros (gratuito con beca). El programa se imparte en módulos mensuales por webinar en directo de 16:00 a 18:00, dirigido a residentes y especialistas en hematología.",
       "org": "SEHH",
+      "t": "Programa de Especialización en Hematología, Curso 2: Hematología Clínica No Neoplásica",
       "u": "https://sehh.es/oferta-formativa/programa-de-especializacion-en-hematologia-curso-2-hematologia-clinica-no-neoplasica/",
-      "n": "La ficha de la SEHH indica inicio el 1 de diciembre de 2026 y un precio general de 195 euros (gratuito con beca). El programa se imparte en módulos mensuales por webinar en directo de 16:00 a 18:00, dirigido a residentes y especialistas en hematología."
+      "w": "En línea (webinars en directo en el Aula Virtual de la SEHH)"
+    },
+    {
+      "d": "2026-12-10",
+      "h": "16:00",
+      "t": "Webinar: Monitorización de nuevas terapias en hemofilia",
+      "w": "En línea",
+      "a": "esp",
+      "k": "Webinar",
+      "org": "Real Fundación Victoria Eugenia (RFVE), con la SETH",
+      "u": "https://seth.es/formacion/xvi-curso-internacional-de-formacion-continuada-en-hemofilia-y-otras-coagulopatias/",
+      "n": "Webinar de 16:00 a 18:15 (hora peninsular) del XVI Curso Internacional de Formación Continuada en Hemofilia y otras Coagulopatías, dirigido a profesionales que atienden coagulopatías congénitas, según la ficha de la SETH."
     },
     {
       "a": "eur",
