@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-16",
-  "updated": "2026-11-16T06:30:00+01:00",
+  "date": "2026-11-17",
+  "updated": "2026-11-17T06:20:00+01:00",
   "items": [
     {
       "a": "esp",
@@ -86,15 +86,15 @@
       "w": "En línea (webinars en directo en el Aula Virtual de la SEHH)"
     },
     {
+      "a": "esp",
       "d": "2026-12-10",
       "h": "16:00",
-      "t": "Webinar: Monitorización de nuevas terapias en hemofilia",
-      "w": "En línea",
-      "a": "esp",
       "k": "Webinar",
+      "n": "Webinar de 16:00 a 18:15 (hora peninsular) del XVI Curso Internacional de Formación Continuada en Hemofilia y otras Coagulopatías, dirigido a profesionales que atienden coagulopatías congénitas, según la ficha de la SETH.",
       "org": "Real Fundación Victoria Eugenia (RFVE), con la SETH",
+      "t": "Webinar: Monitorización de nuevas terapias en hemofilia",
       "u": "https://seth.es/formacion/xvi-curso-internacional-de-formacion-continuada-en-hemofilia-y-otras-coagulopatias/",
-      "n": "Webinar de 16:00 a 18:15 (hora peninsular) del XVI Curso Internacional de Formación Continuada en Hemofilia y otras Coagulopatías, dirigido a profesionales que atienden coagulopatías congénitas, según la ficha de la SETH."
+      "w": "En línea"
     },
     {
       "a": "eur",
