@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-16",
-  "updated": "2026-11-16T06:30:00+01:00",
+  "date": "2026-11-17",
+  "updated": "2026-11-17T06:20:00+01:00",
   "regions": {
     "val": [
       {
@@ -11,11 +11,11 @@
         "d": "2026-11-12"
       },
       {
-        "d": "2026-10-28",
-        "s": "Ensayo aleatorizado de fase II (TTVguideIT) en 260 receptores de trasplante renal de 13 centros europeos, con participación de INCLIVA, Hospital Clínico Universitario de València e IIS La Fe: el ajuste de tacrolimus según carga de virus Torque-Teno cumplió no inferioridad (evento compuesto 35 % frente a 38 %), con menos dosis de tacrolimus. No redujo significativamente las infecciones. Es trasplante renal, no hematológico.",
-        "src": "El Periódic",
         "t": "INCLIVA y el IIS La Fe participan en un estudio de dosificación personalizada de inmunosupresores tras un trasplante",
-        "u": "https://www.elperiodic.com/valencia/incliva-participan-estudio-avala-dosificacion-personalizada-inmunosupresores-tras-trasplante_1099753"
+        "s": "Ensayo aleatorizado de fase II (TTVguideIT) en 260 receptores de trasplante renal de 13 centros europeos, con participación de INCLIVA, Hospital Clínico Universitario de València e IIS La Fe: el ajuste de tacrolimus según carga de virus Torque-Teno cumplió no inferioridad (evento compuesto 35 % frente a 38 %), con menos dosis de tacrolimus. No redujo significativamente las infecciones. Es trasplante renal, no hematológico.",
+        "u": "https://www.elperiodic.com/valencia/incliva-participan-estudio-avala-dosificacion-personalizada-inmunosupresores-tras-trasplante_1099753",
+        "src": "El Periódic",
+        "d": "2026-10-28"
       }
     ],
     "esp": [
@@ -34,25 +34,18 @@
         "d": "2026-11-10"
       },
       {
-        "d": "2026-10-28",
-        "s": "Las instituciones que recibieron de Rocket Pharmaceuticals los derechos de la terapia génica para anemia de Fanconi subtipo A preparan una solicitud de exención hospitalaria ante la AEMPS. Es una preparación: no hay solicitud presentada ni decisión. Rocket retiró en 2025 su solicitud ante la EMA.",
-        "src": "Diariofarma",
         "t": "La terapia génica de la anemia de Fanconi opta a la vía de exención hospitalaria en España",
-        "u": "https://diariofarma.com/2026/10/28/la-terapia-genica-de-la-anemia-de-fanconi-opta-a-la-via-de-exencion-hospitalaria-en-espana"
+        "s": "Las instituciones que recibieron de Rocket Pharmaceuticals los derechos de la terapia génica para anemia de Fanconi subtipo A preparan una solicitud de exención hospitalaria ante la AEMPS. Es una preparación: no hay solicitud presentada ni decisión. Rocket retiró en 2025 su solicitud ante la EMA.",
+        "u": "https://diariofarma.com/2026/10/28/la-terapia-genica-de-la-anemia-de-fanconi-opta-a-la-via-de-exencion-hospitalaria-en-espana",
+        "src": "Diariofarma",
+        "d": "2026-10-28"
       },
       {
-        "d": "2026-10-28",
-        "s": "La Junta de Castilla-La Mancha pide sangre de todos los grupos, sobre todo 0 y A, en Toledo, Ciudad Real y Alcázar de San Juan. La Comunidad de Madrid también ha solicitado donaciones.",
-        "src": "El Español",
         "t": "Llamamiento urgente a donar sangre tras el accidente ferroviario de Urda (Toledo)",
-        "u": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261028/llamamiento-urgente-donar-sangre-toledo-ciudad-real-accidente-ferroviario/1003744438002_0.html"
-      },
-      {
-        "d": "2026-10-27",
-        "s": "Hematólogo del Hospital Clínic de Barcelona y expresidente de GELTAMO, presidirá la SEHH en 2026-2030. Prioridades anunciadas: acreditar un quinto año de MIR en Hematología, integrar la inteligencia artificial y acreditar unidades funcionales, empezando por linfoma y mieloma.",
-        "src": "Redacción Médica",
-        "t": "Armando López Guillermo, nuevo presidente de la SEHH",
-        "u": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261027/armando-lopez-guillermo-presidira-la-sociedad-espanola-de-hematologia-hemoterapia/363515_0.html"
+        "s": "La Junta de Castilla-La Mancha pide sangre de todos los grupos, sobre todo 0 y A, en Toledo, Ciudad Real y Alcázar de San Juan. La Comunidad de Madrid también ha solicitado donaciones.",
+        "u": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261028/llamamiento-urgente-donar-sangre-toledo-ciudad-real-accidente-ferroviario/1003744438002_0.html",
+        "src": "El Español",
+        "d": "2026-10-28"
       }
     ],
     "eur": [
@@ -106,13 +99,6 @@
         "u": "https://www.financialcontent.com/article/gnwcq-2026-11-9-hemab-therapeutics-initiates-solara-a-pivotal-phase-3-trial-of-sutacimig-in-glanzmann-thrombasthenia",
         "src": "Hemab Therapeutics (nota de prensa)",
         "d": "2026-11-09"
-      },
-      {
-        "d": "2026-10-27",
-        "s": "Fase 3 CERVINO (393 pacientes): tasa de respuesta global 74,0 % frente a 45,7 % y HR de supervivencia libre de progresión 0,40 frente al tratamiento estándar. Síndrome de liberación de citocinas en el 28,3 %, casi todos de grado 1 o 2. Es una solicitud, no una aprobación.",
-        "src": "OncLive",
-        "t": "AbbVie solicita a la FDA la aprobación de etentamig en mieloma múltiple en recaída o refractario",
-        "u": "https://onclive.com/view/fda-receives-bla-for-etentamig-in-r-r-multiple-myeloma"
       }
     ]
   }
