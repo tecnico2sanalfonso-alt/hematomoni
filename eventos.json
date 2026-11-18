@@ -1,28 +1,7 @@
 {
-  "date": "2026-11-17",
-  "updated": "2026-11-17T06:20:00+01:00",
+  "date": "2026-11-18",
+  "updated": "2026-11-18T06:30:00+01:00",
   "items": [
-    {
-      "a": "esp",
-      "d": "2026-11-17",
-      "h": "10:00",
-      "k": "Jornada",
-      "n": "Jornada de 10:00 a 17:00 dirigida a especialistas en hematología, genética y biología molecular. Formato híbrido según la ficha de la SEHH.",
-      "org": "SEHH y Fundación Española de Hematología y Hemoterapia",
-      "t": "IV Jornada Neoplasias Hematológicas con predisposición Germinal",
-      "u": "https://sehh.es/oferta-formativa/iv-jornada-neoplasias-hematologicas-predisposicion-germinal/",
-      "w": "Madrid, Salón de Actos de la SEHH (formato híbrido, con opción en línea)"
-    },
-    {
-      "a": "eur",
-      "d": "2026-11-17",
-      "k": "Webinar",
-      "n": "Webinar sobre adherencia al tratamiento y transición a la atención adulta en adolescentes con trastornos de la coagulación, dentro del ciclo de noviembre de la WFH. La hora publicada depende de la zona horaria: consultar la página de inscripción.",
-      "org": "Federación Mundial de Hemofilia (WFH)",
-      "t": "Webinar WFH: Bleeding Disorders & Adolescence: Transition and Adherence During this Complex Stage",
-      "u": "https://wfh.org/article/wfh-november-webinars-explore-key-areas-of-bleeding-disorders-care/",
-      "w": "En línea"
-    },
     {
       "a": "esp",
       "d": "2026-11-18",
