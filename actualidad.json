@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-17",
-  "updated": "2026-11-17T06:20:00+01:00",
+  "date": "2026-11-18",
+  "updated": "2026-11-18T06:20:00+01:00",
   "regions": {
     "val": [
       {
@@ -9,13 +9,6 @@
         "u": "https://www.diputacionalicante.es/noticias/la-diputacion-de-alicante-acoge-este-fin-de-semana-su-tradicional-maraton-de-donacion-de-sangre-4/",
         "src": "Diputación de Alicante",
         "d": "2026-11-12"
-      },
-      {
-        "t": "INCLIVA y el IIS La Fe participan en un estudio de dosificación personalizada de inmunosupresores tras un trasplante",
-        "s": "Ensayo aleatorizado de fase II (TTVguideIT) en 260 receptores de trasplante renal de 13 centros europeos, con participación de INCLIVA, Hospital Clínico Universitario de València e IIS La Fe: el ajuste de tacrolimus según carga de virus Torque-Teno cumplió no inferioridad (evento compuesto 35 % frente a 38 %), con menos dosis de tacrolimus. No redujo significativamente las infecciones. Es trasplante renal, no hematológico.",
-        "u": "https://www.elperiodic.com/valencia/incliva-participan-estudio-avala-dosificacion-personalizada-inmunosupresores-tras-trasplante_1099753",
-        "src": "El Periódic",
-        "d": "2026-10-28"
       }
     ],
     "esp": [
@@ -32,20 +25,6 @@
         "u": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261110/nuevos-ipt-para-cancer-migrana-aguda-control-de-hambre-obesidad/364770_0.html",
         "src": "Redacción Médica",
         "d": "2026-11-10"
-      },
-      {
-        "t": "La terapia génica de la anemia de Fanconi opta a la vía de exención hospitalaria en España",
-        "s": "Las instituciones que recibieron de Rocket Pharmaceuticals los derechos de la terapia génica para anemia de Fanconi subtipo A preparan una solicitud de exención hospitalaria ante la AEMPS. Es una preparación: no hay solicitud presentada ni decisión. Rocket retiró en 2025 su solicitud ante la EMA.",
-        "u": "https://diariofarma.com/2026/10/28/la-terapia-genica-de-la-anemia-de-fanconi-opta-a-la-via-de-exencion-hospitalaria-en-espana",
-        "src": "Diariofarma",
-        "d": "2026-10-28"
-      },
-      {
-        "t": "Llamamiento urgente a donar sangre tras el accidente ferroviario de Urda (Toledo)",
-        "s": "La Junta de Castilla-La Mancha pide sangre de todos los grupos, sobre todo 0 y A, en Toledo, Ciudad Real y Alcázar de San Juan. La Comunidad de Madrid también ha solicitado donaciones.",
-        "u": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20261028/llamamiento-urgente-donar-sangre-toledo-ciudad-real-accidente-ferroviario/1003744438002_0.html",
-        "src": "El Español",
-        "d": "2026-10-28"
       }
     ],
     "eur": [
