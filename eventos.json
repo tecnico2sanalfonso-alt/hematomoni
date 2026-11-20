@@ -1,17 +1,7 @@
 {
-  "date": "2026-11-19",
-  "updated": "2026-11-19T06:03:55+01:00",
+  "date": "2026-11-20",
+  "updated": "2026-11-20T06:03:39+01:00",
   "items": [
-    {
-      "d": "2026-11-19",
-      "t": "KINTSUGI 2026 Madrid",
-      "w": "Madrid, Gran Vía HUB 97",
-      "a": "esp",
-      "k": "Reunión",
-      "org": "Takeda",
-      "u": "https://sehh.es/agenda/",
-      "n": "Reunión organizada por Takeda el 19 de noviembre de 2026, con aval científico de la SEHH según su agenda. La edición anterior (Kintsugi Oncosenior Forum) se centró en el paciente oncohematológico mayor; la hora no figura en lo verificado."
-    },
     {
       "a": "eur",
       "d": "2026-11-23",
@@ -23,15 +13,15 @@
       "w": "En línea"
     },
     {
+      "a": "esp",
       "d": "2026-11-25",
       "h": "16:00",
-      "t": "Webinar: Diagnóstico y manejo de las inmunodeficiencias secundarias en el paciente oncohematológico",
-      "w": "En línea",
-      "a": "esp",
       "k": "Webinar",
+      "n": "Webinar de 16:00 a 17:00 con la visión del hematólogo (Dr. Alejandro Avendaño Pita, Hospital Universitario de Salamanca) y del inmunólogo (Dra. Silvia Sánchez-Ramón, Hospital Universitario La Paz) sobre diagnóstico, monitorización e indicación de inmunoglobulina subcutánea.",
       "org": "Otras entidades, con aval científico de la SEHH",
+      "t": "Webinar: Diagnóstico y manejo de las inmunodeficiencias secundarias en el paciente oncohematológico",
       "u": "https://sehh.es/agenda/diagnostico-y-manejo-de-las-inmunodeficiencias-secundarias-en-el-paciente-oncohematologico/",
-      "n": "Webinar de 16:00 a 17:00 con la visión del hematólogo (Dr. Alejandro Avendaño Pita, Hospital Universitario de Salamanca) y del inmunólogo (Dra. Silvia Sánchez-Ramón, Hospital Universitario La Paz) sobre diagnóstico, monitorización e indicación de inmunoglobulina subcutánea."
+      "w": "En línea"
     },
     {
       "a": "esp",
