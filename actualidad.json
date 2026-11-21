@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-20",
-  "updated": "2026-11-20T06:20:00+01:00",
+  "date": "2026-11-21",
+  "updated": "2026-11-21T06:30:00+01:00",
   "regions": {
     "val": [
       {
@@ -12,6 +12,13 @@
       }
     ],
     "esp": [
+      {
+        "t": "La SEHH y otras cinco sociedades presentan alegaciones al programa de la nueva especialidad de Laboratorio Clínico",
+        "s": "Alegaciones (no una decisión) al borrador del programa oficial de Laboratorio Clínico presentadas por SEHH, SEI, SEIMC, AEGH, ASEBIR y Sociedad Ibérica de Citometría. Según la SEHH, el programa invade competencias como la citomorfología, la biología molecular de las alteraciones de la coagulación y el manejo de la anemia, y una rotación de cuatro meses es insuficiente. Piden retirar o reformular esas competencias.",
+        "u": "https://sehh.es/noticias-sehh/seis-sociedades-cientificas-presentan-alegaciones-a-la-nueva-especialidad-de-laboratorio-clinico-por-entender-que-invade-competencias/",
+        "src": "SEHH",
+        "d": "2026-11-18"
+      },
       {
         "t": "La SEHH y la SEOR firman un convenio marco de colaboración en formación e investigación",
         "s": "La Sociedad Española de Hematología y Hemoterapia y la Sociedad Española de Oncología Radioterápica firman un convenio marco de dos años prorrogables para reforzar la formación y la investigación clínica, que se desarrollará mediante acuerdos específicos.",

@@ -1,6 +1,12 @@
 {
-  "date": "2026-11-20",
-  "updated": "2026-11-20T06:20:00+01:00",
-  "main": null,
+  "date": "2026-11-21",
+  "updated": "2026-11-21T06:30:00+01:00",
+  "main": {
+    "title": "Seis sociedades científicas, entre ellas la SEHH, presentan alegaciones al programa de la nueva especialidad de Laboratorio Clínico",
+    "summary": "La SEHH, junto con SEI, SEIMC, AEGH, ASEBIR y la Sociedad Ibérica de Citometría, ha presentado alegaciones al borrador del programa oficial de Laboratorio Clínico por entender que invade competencias como la citomorfología al microscopio, las técnicas de biología molecular para alteraciones de la coagulación y el diagnóstico de tipos de cáncer, y el manejo de la anemia. Piden retirar o reformular esas competencias y distinguir entre formación compartida, participación supervisada y ejercicio autónomo.",
+    "why": "Afecta directamente al ámbito de trabajo del laboratorio de hematología y hemostasia y a la formación MIR: la SEHH considera una rotación de cuatro meses insuficiente y recuerda que su propio programa no se actualiza desde hace 20 años.",
+    "url": "https://sehh.es/noticias-sehh/seis-sociedades-cientificas-presentan-alegaciones-a-la-nueva-especialidad-de-laboratorio-clinico-por-entender-que-invade-competencias/",
+    "source": "SEHH"
+  },
   "secondary": null
 }
