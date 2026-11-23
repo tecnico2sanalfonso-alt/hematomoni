@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-22",
-  "updated": "2026-11-22T06:03:41+01:00",
+  "date": "2026-11-23",
+  "updated": "2026-11-23T06:15:00+01:00",
   "items": [
     {
       "a": "eur",
@@ -22,6 +22,17 @@
       "t": "Webinar: Diagnóstico y manejo de las inmunodeficiencias secundarias en el paciente oncohematológico",
       "u": "https://sehh.es/agenda/diagnostico-y-manejo-de-las-inmunodeficiencias-secundarias-en-el-paciente-oncohematologico/",
       "w": "En línea"
+    },
+    {
+      "d": "2026-11-27",
+      "h": "17:00",
+      "k": "Jornada",
+      "t": "IX Jornada del GEEDL: Nexos entre enfermedades de depósito lisosomal y otras entidades",
+      "w": "Zaragoza, Edificio Grupo San Valero (Plaza Santa Cruz, s/n)",
+      "a": "esp",
+      "org": "GEEDL, con patrocinio de Takeda y Sanofi",
+      "u": "https://sehh.es/agenda/ix-jornada-del-geedl/",
+      "n": "Jornada presencial de 17:00 a unas 20:30 recogida en la agenda de la SEHH, con inscripción mediante formulario. Takeda y Sanofi figuran como patrocinadores."
     },
     {
       "a": "esp",
@@ -67,15 +78,37 @@
       "w": "New Orleans, EE. UU. (y en línea)"
     },
     {
+      "a": "esp",
       "d": "2027-01-11",
       "e": "2028-03-31",
-      "t": "Título de Experto en Síndromes Mieloproliferativos",
-      "w": "En línea (virtual)",
-      "a": "esp",
       "k": "Posgrado",
+      "n": "Según la ficha de la SEHH, modalidad virtual con inicio el 11 de enero de 2027 y fin el 31 de marzo de 2028. La inscripción se gestiona a través de los colaboradores del proyecto formativo.",
       "org": "SEHH, FEHH y Universidad Francisco de Vitoria",
+      "t": "Título de Experto en Síndromes Mieloproliferativos",
       "u": "https://sehh.es/oferta-formativa/titulo-de-experto-en-sindromes-mieloproliferativos/",
-      "n": "Según la ficha de la SEHH, modalidad virtual con inicio el 11 de enero de 2027 y fin el 31 de marzo de 2028. La inscripción se gestiona a través de los colaboradores del proyecto formativo."
+      "w": "En línea (virtual)"
+    },
+    {
+      "d": "2027-02-04",
+      "e": "2027-02-06",
+      "k": "Congreso",
+      "t": "EHA-EBMT 9th European CAR T-cell Meeting",
+      "w": "Lisboa, Portugal (presencial)",
+      "a": "eur",
+      "org": "EHA y EBMT",
+      "u": "https://ehaweb.org/connect-network/meetings/eha-ebmt-9th-european-car-t-cell-meeting",
+      "n": "Reunión europea sobre terapia CAR-T del 4 al 6 de febrero de 2027 en Lisboa, según el calendario de reuniones de la EHA."
+    },
+    {
+      "d": "2027-03-22",
+      "e": "2027-03-25",
+      "k": "Congreso",
+      "t": "EHA ReCon 2027",
+      "w": "St. Paul's Bay, Malta (presencial)",
+      "a": "eur",
+      "org": "European Hematology Association (EHA)",
+      "u": "https://ehaweb.org/connect-network/meetings/eha-recon-2027",
+      "n": "Reunión de la EHA del 22 al 25 de marzo de 2027 en Malta, según el calendario de reuniones de la EHA."
     },
     {
       "a": "esp",
