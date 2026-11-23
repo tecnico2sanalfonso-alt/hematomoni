@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-22",
-  "updated": "2026-11-22T06:15:00+01:00",
+  "date": "2026-11-23",
+  "updated": "2026-11-23T06:30:00+01:00",
   "regions": {
     "val": [
       {
@@ -20,6 +20,13 @@
         "d": "2026-11-18"
       },
       {
+        "t": "GenPred se incorpora como nuevo grupo cooperativo de la SEHH",
+        "s": "El Grupo Español de Neoplasias Hematológicas con Predisposición Germinal (GenPred) se ha incorporado a los grupos cooperativos de la SEHH para estudiar las variantes genéticas que aumentan el riesgo de neoplasias hematológicas y sus implicaciones para pacientes y familias. Lo preside Andrés Jerez (Vall d'Hebron) y José Vicente Cervera, del Hospital La Fe (Valencia), es su secretario. La incorporación coincidió con la IV Jornada de Neoplasias Hematológicas con Predisposición Germinal, que abordó la confirmación del origen germinal de variantes y su impacto en la selección de donantes para trasplante.",
+        "u": "https://sehh.es/noticias-sehh/genpred-se-incorpora-como-nuevo-grupo-cooperativo-de-la-sehh/",
+        "src": "SEHH",
+        "d": "2026-11-18"
+      },
+      {
         "t": "La SEHH y la SEOR firman un convenio marco de colaboración en formación e investigación",
         "s": "La Sociedad Española de Hematología y Hemoterapia y la Sociedad Española de Oncología Radioterápica firman un convenio marco de dos años prorrogables para reforzar la formación y la investigación clínica, que se desarrollará mediante acuerdos específicos.",
         "u": "https://www.consalud.es/profesionales/medicina/oncologos-radioterapicos-y-hematologos-firman-un-acuerdo-para-potenciar-la-formacion-y-la-investigacion.html",
@@ -32,6 +39,13 @@
         "u": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261110/nuevos-ipt-para-cancer-migrana-aguda-control-de-hambre-obesidad/364770_0.html",
         "src": "Redacción Médica",
         "d": "2026-11-10"
+      },
+      {
+        "t": "La FEHH financia la ampliación del Registro Español-Portugués de Púrpura Trombótica Trombocitopénica (REPTT-2)",
+        "s": "Concesión de las ayudas a la investigación clínica 2026 de la Fundación Española de Hematología y Hemoterapia. La convocatoria de proyectos mayores (250.000 euros) es para REPTT-2, liderado por Eva Mingot (Grupo Español de Aféresis, Hospital Virgen del Rocío), que dará continuidad al registro y al seguimiento longitudinal de pacientes con PTT. La de proyectos menores (60.000 euros) es para estandarizar la detección de células CAR-T por citometría de flujo multiparamétrica (Teresa Caballero).",
+        "u": "https://sehh.es/noticias-sehh/la-fehh-concede-sus-ayudas-a-la-investigacion-clinica-a-dos-proyectos-sobre-purpura-trombotica-trombocitopenica-y-deteccion-de-celulas-car-t/",
+        "src": "SEHH",
+        "d": "2026-11-05"
       }
     ],
     "eur": [
