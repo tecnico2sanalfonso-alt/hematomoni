@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-23",
-  "updated": "2026-11-23T06:30:00+01:00",
+  "date": "2026-11-24",
+  "updated": "2026-11-24T06:30:00+01:00",
   "regions": {
     "val": [
       {
@@ -23,6 +23,13 @@
         "t": "GenPred se incorpora como nuevo grupo cooperativo de la SEHH",
         "s": "El Grupo Español de Neoplasias Hematológicas con Predisposición Germinal (GenPred) se ha incorporado a los grupos cooperativos de la SEHH para estudiar las variantes genéticas que aumentan el riesgo de neoplasias hematológicas y sus implicaciones para pacientes y familias. Lo preside Andrés Jerez (Vall d'Hebron) y José Vicente Cervera, del Hospital La Fe (Valencia), es su secretario. La incorporación coincidió con la IV Jornada de Neoplasias Hematológicas con Predisposición Germinal, que abordó la confirmación del origen germinal de variantes y su impacto en la selección de donantes para trasplante.",
         "u": "https://sehh.es/noticias-sehh/genpred-se-incorpora-como-nuevo-grupo-cooperativo-de-la-sehh/",
+        "src": "SEHH",
+        "d": "2026-11-18"
+      },
+      {
+        "t": "La SEHH incorpora a HematoBot un asistente virtual de cardiooncología",
+        "s": "Nuevo chatbot de HematoBot, dirigido a los socios de la SEHH y desarrollado con la colaboración de Lilly, para consultar información científica sobre la valoración del riesgo cardiovascular en pacientes con leucemia linfocítica crónica. Se suma a los dos asistentes ya disponibles, sobre toxicidad y tratamiento en mieloma múltiple y sobre fragilidad y nutrición en mieloma.",
+        "u": "https://sehh.es/noticias-sehh/la-sehh-incorpora-a-hematobot-un-nuevo-asistente-de-cardiooncologia/",
         "src": "SEHH",
         "d": "2026-11-18"
       },
