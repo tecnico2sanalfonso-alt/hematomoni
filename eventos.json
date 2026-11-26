@@ -1,18 +1,7 @@
 {
- "date": "2026-11-25",
- "updated": "2026-11-25T06:30:00+01:00",
+ "date": "2026-11-26",
+ "updated": "2026-11-26T06:30:00+01:00",
  "items": [
-  {
-   "a": "esp",
-   "d": "2026-11-25",
-   "h": "16:00",
-   "k": "Webinar",
-   "n": "Webinar de 16:00 a 17:00 con la visión del hematólogo (Dr. Alejandro Avendaño Pita, Hospital Universitario de Salamanca) y del inmunólogo (Dra. Silvia Sánchez-Ramón, Hospital Universitario La Paz) sobre diagnóstico, monitorización e indicación de inmunoglobulina subcutánea.",
-   "org": "Otras entidades, con aval científico de la SEHH",
-   "t": "Webinar: Diagnóstico y manejo de las inmunodeficiencias secundarias en el paciente oncohematológico",
-   "u": "https://sehh.es/agenda/diagnostico-y-manejo-de-las-inmunodeficiencias-secundarias-en-el-paciente-oncohematologico/",
-   "w": "En línea"
-  },
   {
    "a": "esp",
    "d": "2026-11-27",
@@ -44,6 +33,17 @@
    "t": "II Encuentro Interregional HPN (2.ª edición)",
    "u": "https://www.sehh.es/servicios-para-los-socios/agenda/101420-agenda/1015-ii-encuentro-interregional-hpn-2-edicion",
    "w": "Ver ficha de la SEHH (el ciclo se celebra en formato webinar)"
+  },
+  {
+   "d": "2026-12-03",
+   "h": "16:00",
+   "t": "V Jornada de Investigación y Ciencia centrada en el paciente",
+   "w": "Valencia, Auditorio del Instituto de Investigación Sanitaria La Fe",
+   "a": "val",
+   "k": "Jornada",
+   "org": "ASLEUVAL, con patrocinio de Sanofi, CSL, GSK, Menarini y Stemline",
+   "u": "https://asleuval.org/asleuval-celebra-su-v-jornada-de-investigacion-y-ciencia-centrada-en-el-paciente-el-proximo-3-de-diciembre-en-valencia/",
+   "n": "Jornada sobre avances científicos y retos en enfermedades de la sangre, con un espacio dedicado al linfoma, dirigida a profesionales sanitarios, investigadores y asociaciones. Comienza a las 16:00 en el IIS La Fe, según la página de ASLEUVAL."
   },
   {
    "a": "esp",
