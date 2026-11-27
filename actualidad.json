@@ -1,8 +1,15 @@
 {
-  "date": "2026-11-26",
-  "updated": "2026-11-26T06:02:44+01:00",
+  "date": "2026-11-27",
+  "updated": "2026-11-27T06:04:39+01:00",
   "regions": {
     "val": [
+      {
+        "t": "La SEHH presenta el Manual de Enfermedades del Complemento 2026, coordinado por hematólogos de La Fe",
+        "s": "Coordinado por Santiago Bonanad e Isidro Jarque (Hospital Universitario y Politécnico La Fe, Valencia) y Juan Carlos Vallejo (Hospital de Salamanca): 45 autores y 20 capítulos sobre HPN, enfermedad por crioaglutininas, SHU atípico, diagnóstico de laboratorio y nuevas terapias. Editado por la SEHH con la colaboración de Novartis.",
+        "u": "https://sehh.es/noticias-sehh/un-nuevo-manual-reune-el-conocimiento-sobre-las-enfermedades-del-complemento/",
+        "src": "SEHH",
+        "d": "2026-11-25"
+      },
       {
         "t": "XXVI Maratón de Donación de Sangre en la Diputación de Alicante",
         "s": "Organizado por el Centro de Transfusión de la Comunitat Valenciana con la Diputación de Alicante en el Palacio Provincial: viernes 13 de noviembre de 16:00 a 21:00 y sábado 14 de 9:30 a 14:00 y de 16:00 a 21:00. Se puede donar sangre y plasma.",
@@ -49,6 +56,13 @@
       }
     ],
     "eur": [
+      {
+        "t": "Novedades de la EMA en noviembre: recomendado el genérico Ruxolitinib Krka y nueva indicación de Gazyvaro",
+        "s": "Según el resumen de EHA, el CHMP recomendó la aprobación del genérico Ruxolitinib Krka (mielofibrosis, policitemia vera y enfermedad injerto contra huésped); es una recomendación, pendiente de decisión de la Comisión Europea. También recoge una nueva indicación de Gazyvaro (obinutuzumab), cuyo resumen lo describe para LLC, linfoma folicular y lupus, y una comunicación de seguridad (DHPC) de Caelyx.",
+        "u": "https://ehaweb.org/about-eha/european-affairs/regulatory-affairs-and-scientific-relations/selected-ema-news/selected-ema-news-november-2026",
+        "src": "EHA",
+        "d": "2026-11-23"
+      },
       {
         "t": "La Comisión Europea aprueba denecimig (Frehemgo) para la profilaxis de la hemofilia A con o sin inhibidores",
         "s": "Aprobación de la Comisión Europea, tras la opinión favorable del CHMP del 17 de septiembre de 2026, de denecimig, mimético del factor VIIIa, como profilaxis rutinaria en adultos y niños con hemofilia A con o sin inhibidores, con pauta mensual, cada dos semanas o semanal. En FRONTIER2 redujo significativamente la tasa anualizada de sangrados frente a la profilaxis previa con factor y al tratamiento a demanda.",

@@ -1,6 +1,12 @@
 {
-  "date": "2026-11-26",
-  "updated": "2026-11-26T06:02:44+01:00",
-  "main": null,
+  "date": "2026-11-27",
+  "updated": "2026-11-27T06:04:39+01:00",
+  "main": {
+    "title": "La SEHH presenta el Manual de Enfermedades del Complemento 2026, coordinado desde La Fe de Valencia",
+    "summary": "Obra de 45 autores y 20 capítulos coordinada por Santiago Bonanad e Isidro Jarque (Hospital La Fe) y Juan Carlos Vallejo (Salamanca), con capítulos sobre HPN, enfermedad por crioaglutininas, SHU atípico, diagnóstico de laboratorio y terapias en investigación. En la presentación se dedicó especial atención a la HPN y a complicaciones como la trombosis y la hemólisis irruptiva.",
+    "why": "Ofrece una referencia en español para el manejo de la HPN y sus complicaciones trombóticas, útil para protocolos asistenciales y formación.",
+    "url": "https://sehh.es/noticias-sehh/un-nuevo-manual-reune-el-conocimiento-sobre-las-enfermedades-del-complemento/",
+    "source": "SEHH"
+  },
   "secondary": null
 }
