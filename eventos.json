@@ -1,160 +1,160 @@
 {
- "date": "2026-11-26",
- "updated": "2026-11-26T06:30:00+01:00",
- "items": [
-  {
-   "a": "esp",
-   "d": "2026-11-27",
-   "h": "17:00",
-   "k": "Jornada",
-   "n": "Jornada presencial de 17:00 a unas 20:30 recogida en la agenda de la SEHH, con inscripción mediante formulario. Takeda y Sanofi figuran como patrocinadores.",
-   "org": "GEEDL, con patrocinio de Takeda y Sanofi",
-   "t": "IX Jornada del GEEDL: Nexos entre enfermedades de depósito lisosomal y otras entidades",
-   "u": "https://sehh.es/agenda/ix-jornada-del-geedl/",
-   "w": "Zaragoza, Edificio Grupo San Valero (Plaza Santa Cruz, s/n)"
-  },
-  {
-   "a": "esp",
-   "d": "2026-12-01",
-   "k": "Curso en línea",
-   "n": "La ficha de la SEHH indica inicio el 1 de diciembre de 2026 y un precio general de 195 euros (gratuito con beca). El programa se imparte en módulos mensuales por webinar en directo de 16:00 a 18:00, dirigido a residentes y especialistas en hematología.",
-   "org": "SEHH",
-   "t": "Programa de Especialización en Hematología, Curso 2: Hematología Clínica No Neoplásica",
-   "u": "https://sehh.es/oferta-formativa/programa-de-especializacion-en-hematologia-curso-2-hematologia-clinica-no-neoplasica/",
-   "w": "En línea (webinars en directo en el Aula Virtual de la SEHH)"
-  },
-  {
-   "a": "esp",
-   "d": "2026-12-01",
-   "h": "17:30",
-   "k": "Encuentro",
-   "n": "Encuentro sobre hemoglobinuria paroxística nocturna de 17:30 a 19:00, según la agenda de la SEHH, con inscripción y programa enlazados. La SEHH indica que los encuentros del ciclo son webinars con inscripción gratuita en su Campus Virtual.",
-   "org": "SEHH y Fundación Española de Hematología y Hemoterapia",
-   "t": "II Encuentro Interregional HPN (2.ª edición)",
-   "u": "https://www.sehh.es/servicios-para-los-socios/agenda/101420-agenda/1015-ii-encuentro-interregional-hpn-2-edicion",
-   "w": "Ver ficha de la SEHH (el ciclo se celebra en formato webinar)"
-  },
-  {
-   "d": "2026-12-03",
-   "h": "16:00",
-   "t": "V Jornada de Investigación y Ciencia centrada en el paciente",
-   "w": "Valencia, Auditorio del Instituto de Investigación Sanitaria La Fe",
-   "a": "val",
-   "k": "Jornada",
-   "org": "ASLEUVAL, con patrocinio de Sanofi, CSL, GSK, Menarini y Stemline",
-   "u": "https://asleuval.org/asleuval-celebra-su-v-jornada-de-investigacion-y-ciencia-centrada-en-el-paciente-el-proximo-3-de-diciembre-en-valencia/",
-   "n": "Jornada sobre avances científicos y retos en enfermedades de la sangre, con un espacio dedicado al linfoma, dirigida a profesionales sanitarios, investigadores y asociaciones. Comienza a las 16:00 en el IIS La Fe, según la página de ASLEUVAL."
-  },
-  {
-   "a": "esp",
-   "d": "2026-12-10",
-   "h": "16:00",
-   "k": "Webinar",
-   "n": "Webinar de 16:00 a 18:15 (hora peninsular) del XVI Curso Internacional de Formación Continuada en Hemofilia y otras Coagulopatías, dirigido a profesionales que atienden coagulopatías congénitas, según la ficha de la SETH.",
-   "org": "Real Fundación Victoria Eugenia (RFVE), con la SETH",
-   "t": "Webinar: Monitorización de nuevas terapias en hemofilia",
-   "u": "https://seth.es/formacion/xvi-curso-internacional-de-formacion-continuada-en-hemofilia-y-otras-coagulopatias/",
-   "w": "En línea"
-  },
-  {
-   "a": "eur",
-   "d": "2026-12-12",
-   "e": "2026-12-15",
-   "k": "Congreso",
-   "n": "68.ª reunión anual de la ASH, del 12 al 15 de diciembre de 2026 en New Orleans y en línea, según la web oficial de la ASH.",
-   "org": "American Society of Hematology (ASH)",
-   "t": "ASH Annual Meeting 2026",
-   "u": "https://www.hematology.org/meetings/annual-meeting",
-   "w": "New Orleans, EE. UU. (y en línea)"
-  },
-  {
-   "a": "esp",
-   "d": "2027-01-11",
-   "e": "2028-03-31",
-   "k": "Posgrado",
-   "n": "Según la ficha de la SEHH, modalidad virtual con inicio el 11 de enero de 2027 y fin el 31 de marzo de 2028. La inscripción se gestiona a través de los colaboradores del proyecto formativo.",
-   "org": "SEHH, FEHH y Universidad Francisco de Vitoria",
-   "t": "Título de Experto en Síndromes Mieloproliferativos",
-   "u": "https://sehh.es/oferta-formativa/titulo-de-experto-en-sindromes-mieloproliferativos/",
-   "w": "En línea (virtual)"
-  },
-  {
-   "a": "esp",
-   "d": "2027-01-14",
-   "e": "2027-01-15",
-   "h": "11:00",
-   "k": "Reunión",
-   "n": "Reunión híbrida de dos días con resumen de las novedades del ASH, incluido un bloque de hemostasia y trombosis. Inscripción hasta el 8 de enero de 2027 o hasta completar aforo, según la ficha de la SEHH.",
-   "org": "SEHH y FEHH",
-   "t": "PostASH 2027: conclusiones de la 68.ª reunión anual de la ASH",
-   "u": "https://sehh.es/oferta-formativa/68th-ash-annual-meeting-and-exposition/",
-   "w": "Córdoba, Palacio de Congresos (formato híbrido)"
-  },
-  {
-   "a": "eur",
-   "d": "2027-02-04",
-   "e": "2027-02-06",
-   "k": "Congreso",
-   "n": "Reunión europea sobre terapia CAR-T del 4 al 6 de febrero de 2027 en Lisboa, según el calendario de reuniones de la EHA.",
-   "org": "EHA y EBMT",
-   "t": "EHA-EBMT 9th European CAR T-cell Meeting",
-   "u": "https://ehaweb.org/connect-network/meetings/eha-ebmt-9th-european-car-t-cell-meeting",
-   "w": "Lisboa, Portugal (presencial)"
-  },
-  {
-   "a": "eur",
-   "d": "2027-03-22",
-   "e": "2027-03-25",
-   "k": "Congreso",
-   "n": "Reunión de la EHA del 22 al 25 de marzo de 2027 en Malta, según el calendario de reuniones de la EHA.",
-   "org": "European Hematology Association (EHA)",
-   "t": "EHA ReCon 2027",
-   "u": "https://ehaweb.org/connect-network/meetings/eha-recon-2027",
-   "w": "St. Paul's Bay, Malta (presencial)"
-  },
-  {
-   "a": "eur",
-   "d": "2027-04-08",
-   "e": "2027-04-10",
-   "k": "Reunión científica",
-   "n": "Reunión científica presencial del 8 al 10 de abril de 2027 en Niza, según el calendario de reuniones de la EHA.",
-   "org": "European Hematology Association (EHA)",
-   "t": "EHA-SWG Scientific Meeting on Integrated Diagnostics and Implementation Science in Hematological Malignancies",
-   "u": "https://ehaweb.org/connect-network/meetings/eha-swg-scientific-meeting-on-integrated-diagnostics-and-implementation-science-in-hematological-malignancies",
-   "w": "Niza, Francia (presencial)"
-  },
-  {
-   "a": "eur",
-   "d": "2027-04-26",
-   "e": "2027-04-28",
-   "k": "Preceptorship",
-   "n": "Formación presencial sobre hemoglobinopatías, del diagnóstico y la prevención al manejo personalizado, del 26 al 28 de abril de 2027 en Verona, según el calendario de la EHA.",
-   "org": "European Hematology Association (EHA)",
-   "t": "EHA Topics-in-Focus Preceptorship on Hemoglobinopathies",
-   "u": "https://ehaweb.org/connect-network/meetings/eha-topics-in-focus-preceptorship-on-hemoglobinopathies",
-   "w": "Verona, Italia (presencial)"
-  },
-  {
-   "a": "esp",
-   "d": "2027-06-10",
-   "e": "2027-06-13",
-   "k": "Congreso",
-   "n": "Congreso anual de la EHA, del 10 al 13 de junio de 2027 en Barcelona, según el calendario de la EHA.",
-   "org": "European Hematology Association (EHA)",
-   "t": "Congreso EHA2027",
-   "u": "https://ehaweb.org/connect-network/eha2027-congress",
-   "w": "Barcelona (formato híbrido)"
-  },
-  {
-   "a": "eur",
-   "d": "2027-09-09",
-   "e": "2027-09-11",
-   "k": "Reunión científica",
-   "n": "Reunión científica presencial sobre hierro y eritropoyesis del 9 al 11 de septiembre de 2027 en Praga, según el calendario de la EHA.",
-   "org": "European Hematology Association (EHA)",
-   "t": "EHA-SWG Scientific Meeting on Iron and Erythropoiesis",
-   "u": "https://ehaweb.org/connect-network/meetings/eha-swg-scientific-meeting-on-iron-and-erythropoiesis-bridging-molecular-mechanism-and-clinical-practice",
-   "w": "Praga, República Checa (presencial)"
-  }
- ]
+  "date": "2026-11-27",
+  "updated": "2026-11-27T06:03:03+01:00",
+  "items": [
+    {
+      "a": "esp",
+      "d": "2026-11-27",
+      "h": "17:00",
+      "k": "Jornada",
+      "n": "Jornada presencial de 17:00 a unas 20:30 recogida en la agenda de la SEHH, con inscripción mediante formulario. Takeda y Sanofi figuran como patrocinadores.",
+      "org": "GEEDL, con patrocinio de Takeda y Sanofi",
+      "t": "IX Jornada del GEEDL: Nexos entre enfermedades de depósito lisosomal y otras entidades",
+      "u": "https://sehh.es/agenda/ix-jornada-del-geedl/",
+      "w": "Zaragoza, Edificio Grupo San Valero (Plaza Santa Cruz, s/n)"
+    },
+    {
+      "a": "esp",
+      "d": "2026-12-01",
+      "k": "Curso en línea",
+      "n": "La ficha de la SEHH indica inicio el 1 de diciembre de 2026 y un precio general de 195 euros (gratuito con beca). El programa se imparte en módulos mensuales por webinar en directo de 16:00 a 18:00, dirigido a residentes y especialistas en hematología.",
+      "org": "SEHH",
+      "t": "Programa de Especialización en Hematología, Curso 2: Hematología Clínica No Neoplásica",
+      "u": "https://sehh.es/oferta-formativa/programa-de-especializacion-en-hematologia-curso-2-hematologia-clinica-no-neoplasica/",
+      "w": "En línea (webinars en directo en el Aula Virtual de la SEHH)"
+    },
+    {
+      "a": "esp",
+      "d": "2026-12-01",
+      "h": "17:30",
+      "k": "Encuentro",
+      "n": "Encuentro sobre hemoglobinuria paroxística nocturna de 17:30 a 19:00, según la agenda de la SEHH, con inscripción y programa enlazados. La SEHH indica que los encuentros del ciclo son webinars con inscripción gratuita en su Campus Virtual.",
+      "org": "SEHH y Fundación Española de Hematología y Hemoterapia",
+      "t": "II Encuentro Interregional HPN (2.ª edición)",
+      "u": "https://www.sehh.es/servicios-para-los-socios/agenda/101420-agenda/1015-ii-encuentro-interregional-hpn-2-edicion",
+      "w": "Ver ficha de la SEHH (el ciclo se celebra en formato webinar)"
+    },
+    {
+      "a": "val",
+      "d": "2026-12-03",
+      "h": "16:00",
+      "k": "Jornada",
+      "n": "Jornada sobre avances científicos y retos en enfermedades de la sangre, con un espacio dedicado al linfoma, dirigida a profesionales sanitarios, investigadores y asociaciones. Comienza a las 16:00 en el IIS La Fe, según la página de ASLEUVAL.",
+      "org": "ASLEUVAL, con patrocinio de Sanofi, CSL, GSK, Menarini y Stemline",
+      "t": "V Jornada de Investigación y Ciencia centrada en el paciente",
+      "u": "https://asleuval.org/asleuval-celebra-su-v-jornada-de-investigacion-y-ciencia-centrada-en-el-paciente-el-proximo-3-de-diciembre-en-valencia/",
+      "w": "Valencia, Auditorio del Instituto de Investigación Sanitaria La Fe"
+    },
+    {
+      "a": "esp",
+      "d": "2026-12-10",
+      "h": "16:00",
+      "k": "Webinar",
+      "n": "Webinar de 16:00 a 18:15 (hora peninsular) del XVI Curso Internacional de Formación Continuada en Hemofilia y otras Coagulopatías, dirigido a profesionales que atienden coagulopatías congénitas, según la ficha de la SETH.",
+      "org": "Real Fundación Victoria Eugenia (RFVE), con la SETH",
+      "t": "Webinar: Monitorización de nuevas terapias en hemofilia",
+      "u": "https://seth.es/formacion/xvi-curso-internacional-de-formacion-continuada-en-hemofilia-y-otras-coagulopatias/",
+      "w": "En línea"
+    },
+    {
+      "a": "eur",
+      "d": "2026-12-12",
+      "e": "2026-12-15",
+      "k": "Congreso",
+      "n": "68.ª reunión anual de la ASH, del 12 al 15 de diciembre de 2026 en New Orleans y en línea, según la web oficial de la ASH.",
+      "org": "American Society of Hematology (ASH)",
+      "t": "ASH Annual Meeting 2026",
+      "u": "https://www.hematology.org/meetings/annual-meeting",
+      "w": "New Orleans, EE. UU. (y en línea)"
+    },
+    {
+      "a": "esp",
+      "d": "2027-01-11",
+      "e": "2028-03-31",
+      "k": "Posgrado",
+      "n": "Según la ficha de la SEHH, modalidad virtual con inicio el 11 de enero de 2027 y fin el 31 de marzo de 2028. La inscripción se gestiona a través de los colaboradores del proyecto formativo.",
+      "org": "SEHH, FEHH y Universidad Francisco de Vitoria",
+      "t": "Título de Experto en Síndromes Mieloproliferativos",
+      "u": "https://sehh.es/oferta-formativa/titulo-de-experto-en-sindromes-mieloproliferativos/",
+      "w": "En línea (virtual)"
+    },
+    {
+      "a": "esp",
+      "d": "2027-01-14",
+      "e": "2027-01-15",
+      "h": "11:00",
+      "k": "Reunión",
+      "n": "Reunión híbrida de dos días con resumen de las novedades del ASH, incluido un bloque de hemostasia y trombosis. Inscripción hasta el 8 de enero de 2027 o hasta completar aforo, según la ficha de la SEHH.",
+      "org": "SEHH y FEHH",
+      "t": "PostASH 2027: conclusiones de la 68.ª reunión anual de la ASH",
+      "u": "https://sehh.es/oferta-formativa/68th-ash-annual-meeting-and-exposition/",
+      "w": "Córdoba, Palacio de Congresos (formato híbrido)"
+    },
+    {
+      "a": "eur",
+      "d": "2027-02-04",
+      "e": "2027-02-06",
+      "k": "Congreso",
+      "n": "Reunión europea sobre terapia CAR-T del 4 al 6 de febrero de 2027 en Lisboa, según el calendario de reuniones de la EHA.",
+      "org": "EHA y EBMT",
+      "t": "EHA-EBMT 9th European CAR T-cell Meeting",
+      "u": "https://ehaweb.org/connect-network/meetings/eha-ebmt-9th-european-car-t-cell-meeting",
+      "w": "Lisboa, Portugal (presencial)"
+    },
+    {
+      "a": "eur",
+      "d": "2027-03-22",
+      "e": "2027-03-25",
+      "k": "Congreso",
+      "n": "Reunión de la EHA del 22 al 25 de marzo de 2027 en Malta, según el calendario de reuniones de la EHA.",
+      "org": "European Hematology Association (EHA)",
+      "t": "EHA ReCon 2027",
+      "u": "https://ehaweb.org/connect-network/meetings/eha-recon-2027",
+      "w": "St. Paul's Bay, Malta (presencial)"
+    },
+    {
+      "a": "eur",
+      "d": "2027-04-08",
+      "e": "2027-04-10",
+      "k": "Reunión científica",
+      "n": "Reunión científica presencial del 8 al 10 de abril de 2027 en Niza, según el calendario de reuniones de la EHA.",
+      "org": "European Hematology Association (EHA)",
+      "t": "EHA-SWG Scientific Meeting on Integrated Diagnostics and Implementation Science in Hematological Malignancies",
+      "u": "https://ehaweb.org/connect-network/meetings/eha-swg-scientific-meeting-on-integrated-diagnostics-and-implementation-science-in-hematological-malignancies",
+      "w": "Niza, Francia (presencial)"
+    },
+    {
+      "a": "eur",
+      "d": "2027-04-26",
+      "e": "2027-04-28",
+      "k": "Preceptorship",
+      "n": "Formación presencial sobre hemoglobinopatías, del diagnóstico y la prevención al manejo personalizado, del 26 al 28 de abril de 2027 en Verona, según el calendario de la EHA.",
+      "org": "European Hematology Association (EHA)",
+      "t": "EHA Topics-in-Focus Preceptorship on Hemoglobinopathies",
+      "u": "https://ehaweb.org/connect-network/meetings/eha-topics-in-focus-preceptorship-on-hemoglobinopathies",
+      "w": "Verona, Italia (presencial)"
+    },
+    {
+      "a": "esp",
+      "d": "2027-06-10",
+      "e": "2027-06-13",
+      "k": "Congreso",
+      "n": "Congreso anual de la EHA, del 10 al 13 de junio de 2027 en Barcelona, según el calendario de la EHA.",
+      "org": "European Hematology Association (EHA)",
+      "t": "Congreso EHA2027",
+      "u": "https://ehaweb.org/connect-network/eha2027-congress",
+      "w": "Barcelona (formato híbrido)"
+    },
+    {
+      "a": "eur",
+      "d": "2027-09-09",
+      "e": "2027-09-11",
+      "k": "Reunión científica",
+      "n": "Reunión científica presencial sobre hierro y eritropoyesis del 9 al 11 de septiembre de 2027 en Praga, según el calendario de la EHA.",
+      "org": "European Hematology Association (EHA)",
+      "t": "EHA-SWG Scientific Meeting on Iron and Erythropoiesis",
+      "u": "https://ehaweb.org/connect-network/meetings/eha-swg-scientific-meeting-on-iron-and-erythropoiesis-bridging-molecular-mechanism-and-clinical-practice",
+      "w": "Praga, República Checa (presencial)"
+    }
+  ]
 }
