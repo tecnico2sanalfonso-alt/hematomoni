@@ -1,18 +1,7 @@
 {
-  "date": "2026-11-27",
-  "updated": "2026-11-27T06:03:03+01:00",
+  "date": "2026-11-28",
+  "updated": "2026-11-28T06:15:00+01:00",
   "items": [
-    {
-      "a": "esp",
-      "d": "2026-11-27",
-      "h": "17:00",
-      "k": "Jornada",
-      "n": "Jornada presencial de 17:00 a unas 20:30 recogida en la agenda de la SEHH, con inscripción mediante formulario. Takeda y Sanofi figuran como patrocinadores.",
-      "org": "GEEDL, con patrocinio de Takeda y Sanofi",
-      "t": "IX Jornada del GEEDL: Nexos entre enfermedades de depósito lisosomal y otras entidades",
-      "u": "https://sehh.es/agenda/ix-jornada-del-geedl/",
-      "w": "Zaragoza, Edificio Grupo San Valero (Plaza Santa Cruz, s/n)"
-    },
     {
       "a": "esp",
       "d": "2026-12-01",
@@ -100,6 +89,17 @@
       "t": "EHA-EBMT 9th European CAR T-cell Meeting",
       "u": "https://ehaweb.org/connect-network/meetings/eha-ebmt-9th-european-car-t-cell-meeting",
       "w": "Lisboa, Portugal (presencial)"
+    },
+    {
+      "d": "2027-03-04",
+      "e": "2027-03-05",
+      "k": "Reunión",
+      "t": "XVII Reunión Anual GESMD y VIII Curso Educacional en SMD 2027",
+      "w": "Madrid, Hotel Chamartín The One (presencial)",
+      "a": "esp",
+      "org": "Grupo Español de Síndromes Mielodisplásicos (GESMD), con secretaría técnica de la FEHH",
+      "u": "https://sehh.es/oferta-formativa/xvii-reunion-anual-gesmd_-viii-curso-educacional-en-smd-2027/",
+      "n": "Reunión anual del GESMD y curso educacional sobre síndromes mielodisplásicos los días 4 y 5 de marzo de 2027 en Madrid, según la ficha de la SEHH."
     },
     {
       "a": "eur",
